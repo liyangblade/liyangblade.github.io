@@ -15,12 +15,19 @@ Email: liyang@gbu.edu.cn
 
 Brief Biography
 ======
-<p align="justify">Yang Li received the B.E. and M.E. degrees in electronic information engineering from Beihang University (BUAA), Beijing, China, in 2012 and 2015, respectively, and the Ph.D. degree in electrical and electronic engineering from The University of Hong Kong (HKU) in 2019. From 2019 to 2020, he was a Senior Research Engineer with the Huawei Noah’s Ark Laboratory. From December 2020 to March 2025, he was a Research Scientist with Shenzhen Research Institute of Big Data, and also was an Adjunct Assistant Professor with the School of Science and Engineering, The Chinese University of Hong Kong, Shenzhen, China. Since March 2025, he has been an Associate Professor with the School of Computing and Information Technology, Great Bay University (GBU), Dongguan, China. His research interests include wireless communications, learning to optimize, and distributed optimization. He was a recipient of the 2020 Innovation Pioneer Award from Huawei.</p>
+<p align="justify">Yang Li received the B.E. and M.E. degrees in electronic information engineering from Beihang University (BUAA), Beijing, China, in 2012 and 2015, respectively, and the Ph.D. degree in electrical and electronic engineering from The University of Hong Kong (HKU) in 2019. From 2019 to 2020, he was a Senior Research Engineer with the Huawei Noah’s Ark Laboratory. From December 2020 to March 2025, he was a Research Scientist with Shenzhen Research Institute of Big Data, and also was an Adjunct Assistant Professor with the School of Science and Engineering, The Chinese University of Hong Kong, Shenzhen, China. Since March 2025, he has been an Associate Professor with the School of Computing and Information Technology, Great Bay University (GBU), Dongguan, China. His research interests include **wireless communications**, **learning to optimize**, and **distributed optimization**. He was a recipient of the 2020 Innovation Pioneer Award from Huawei.</p>
 
 Research Interests
 ======
-<p align="justify">* My research expertise lies at the intersection of wireless communications, deep learning, and optimization, with extensive experience and substantial contributions in developing distributed optimization and deep learning algorithms for optimization problems arising in Internet of Things (IoT), cell-free massive MIMO, and large-scale wireless networks.</p>
-<p align="justify">* My current research interests are **learning-to-optimize**, **AI-empowered communications**, **massive grant-free random access**, **cell-free networks**, **near-field communications**, **movable antennas**, and **various optimization problems from beyond 5G communications**.</p>
++ <p align="justify">My research expertise lies at the intersection of wireless communications, deep learning, and optimization, with extensive experience and substantial contributions in developing distributed optimization and deep learning algorithms for optimization problems arising in Internet of Things (IoT), cell-free massive MIMO, and large-scale wireless networks.</p>
++ <p align="justify">My current research interests are **learning to optimize**, **AI-empowered communications**, **massive grant-free random access**, **cell-free networks**, **near-field communications**, **movable antennas**, and **various optimization problems from beyond 5G communications**.</p>
+
+Openings
+======
++ <p align="justify">I am looking for **self-motivated** students with **solid mathematical** background who are interested in pursuing Master's (joint program with Southern University of Science and Technology) or Ph.D. (joint program with Sun Yat-sen University) degrees.</p>
++ <p align="justify">I am also looking for **highly self-motivated** postdoctoral fellows (joint program with Tsinghua Shenzhen International Graduate School), who are interested in working on cutting-edge problems in 6G communications. More details are included in [here](https://www.gbu.edu.cn/detail/article/1323){:target="_blank"} .</p> 
++ <p align="justify">Please send me an email (with a copy of your CV) for details.</p>
+
 
 Site-wide configuration
 ------
