@@ -19,8 +19,8 @@ Brief Biography
 
 Research Interests
 ======
-* My research expertise lies at the intersection of wireless communications, deep learning, and optimization, with extensive experience and substantial contributions in developing distributed optimization and deep learning algorithms for optimization problems arising in Internet of Things (IoT), cell-free massive MIMO, and large-scale wireless networks.
-* My current research interests are **learning-to-optimize**, **AI-empowered communications**, **massive grant-free random access**, **cell-free networks**, **near-field communications**, **movable antennas**, and **various optimization problems from beyond 5G communications**.
+<p align="justify">* My research expertise lies at the intersection of wireless communications, deep learning, and optimization, with extensive experience and substantial contributions in developing distributed optimization and deep learning algorithms for optimization problems arising in Internet of Things (IoT), cell-free massive MIMO, and large-scale wireless networks.</p>
+<p align="justify">* My current research interests are **learning-to-optimize**, **AI-empowered communications**, **massive grant-free random access**, **cell-free networks**, **near-field communications**, **movable antennas**, and **various optimization problems from beyond 5G communications**.</p>
 
 Site-wide configuration
 ------
