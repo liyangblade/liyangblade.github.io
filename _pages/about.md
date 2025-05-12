@@ -19,8 +19,8 @@ Yang Li received the B.E. and M.E. degrees in electronic information engineering
 
 Research Interests
 ======
-1. My research expertise lies at the intersection of wireless communications, deep learning, and optimization, with extensive experience and substantial contributions in developing distributed optimization and deep learning algorithms for optimization problems arising in Internet of Things (IoT), cell-free massive MIMO, and large-scale wireless networks.
-1. My current research interests are learning-to-optimize, AI-empowered communications, massive grant-free random access, cell-free networks, near-field communications, movable antennas, and various optimization problems from beyond 5G communications.
+* My research expertise lies at the intersection of wireless communications, deep learning, and optimization, with extensive experience and substantial contributions in developing distributed optimization and deep learning algorithms for optimization problems arising in Internet of Things (IoT), cell-free massive MIMO, and large-scale wireless networks.
+* My current research interests are **learning-to-optimize**, **AI-empowered communications**, **massive grant-free random access**, **cell-free networks**, **near-field communications**, **movable antennas**, and **various optimization problems from beyond 5G communications**.
 
 Site-wide configuration
 ------
