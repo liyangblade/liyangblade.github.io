@@ -22,12 +22,12 @@ Yang Li received the B.E. and M.E. degrees in electronic information engineering
 Research Interests
 ======
 + <p align="justify">My research expertise lies at the intersection of wireless communications, deep learning, and optimization, with extensive experience and substantial contributions in developing distributed optimization and deep learning algorithms for optimization problems arising in Internet of Things (IoT), cell-free massive MIMO, and large-scale wireless networks.</p>
-+ <p align="justify">My current research interests are **learning to optimize**, **AI-empowered communications**, **massive grant-free random access**, **cell-free networks**, **near-field communications**, **movable antennas**, and **various optimization problems from beyond 5G communications**.</p>
++ <p align="justify">My current research interests are <strong>learning to optimize</strong>, <strong>AI-empowered communications</strong>, <strong>massive grant-free random access</strong>, <strong>cell-free networks</strong>, <strong>near-field communications</strong>, <strong>movable antennas</strong>, and <strong>various optimization problems from beyond 5G communications</strong>.</p>
 
 Openings
 ======
-+ <p align="justify">I am looking for **self-motivated** students with **solid mathematical** background who are interested in pursuing Master's (joint program with Southern University of Science and Technology) or Ph.D. (joint program with Sun Yat-sen University) degrees.</p>
-+ <p align="justify">I am also looking for **highly self-motivated** postdoctoral fellows (joint program with Tsinghua Shenzhen International Graduate School), who are interested in working on cutting-edge problems in 6G communications. More details are included in [here](https://www.gbu.edu.cn/detail/article/1323){:target="_blank"} .</p> 
++ <p align="justify">I am looking for <strong>self-motivated</strong> students with <strong>solid mathematical</strong> background who are interested in pursuing Master's (joint program with Southern University of Science and Technology) or Ph.D. (joint program with Sun Yat-sen University) degrees.</p>
++ <p align="justify">I am also looking for <strong>self-motivated</strong> postdoctoral fellows (joint program with Tsinghua Shenzhen International Graduate School), who are interested in working on cutting-edge problems in 6G communications. More details are included in</p> [here](https://www.gbu.edu.cn/detail/article/1323){:target="_blank"} .
 + <p align="justify">Please send me an email (with a copy of your CV) for details.</p>
 
 
