@@ -15,7 +15,10 @@ Email: liyang@gbu.edu.cn
 
 Brief Biography
 ======
+<p align="justify">
+
 Yang Li received the B.E. and M.E. degrees in electronic information engineering from Beihang University (BUAA), Beijing, China, in 2012 and 2015, respectively, and the Ph.D. degree in electrical and electronic engineering from The University of Hong Kong (HKU) in 2019. From 2019 to 2020, he was a Senior Research Engineer with the Huawei Noah’s Ark Laboratory. From December 2020 to March 2025, he was a Research Scientist with Shenzhen Research Institute of Big Data, and also was an Adjunct Assistant Professor with the School of Science and Engineering, The Chinese University of Hong Kong, Shenzhen, China. Since March 2025, he has been an Associate Professor with the School of Computing and Information Technology, Great Bay University (GBU), Dongguan, China. His research interests include **wireless communications**, **learning to optimize**, and **distributed optimization**. He was a recipient of the 2020 Innovation Pioneer Award from Huawei.
+</p>
 
 Research Interests
 ======
