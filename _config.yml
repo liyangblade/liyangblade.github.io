@@ -25,14 +25,13 @@ author:
   avatar           : "IEEE Photo_Yang Li.jpg"
   name             : "Yang Li (李洋)"
   pronouns         : # example: "she/her"  
-  bio              : "Associate Professor\n[School of Computing and Information Technology](https://www.gbu.edu.cn/menu/177){:target="_blank"}\n  
-[Great Bay University](https://www.gbu.edu.cn/){:target="_blank"}\n 
-Office: Room 202-A, West Tower, Building 8\n  
-Email: liyang@gbu.edu.cn"
+  bio              : "Associate Professor"
+                      \n 
+
   # location         : "Room 202-A, West Tower, Building 8, No. 16 Daxue Road, Songshan Lake District, Dongguan, Guangdong, China."
-  # employer         : "Great Bay University"
+  employer         : "Great Bay University"
   # uri              : # URL
-  # email            : "liyang@gbu.edu.cn" 
+  email            : "liyang@gbu.edu.cn" 
 
   # Academic websites
   academia         : # URL
