@@ -17,14 +17,10 @@ Brief Biography
 ======
 Yang Li received the B.E. and M.E. degrees in electronic information engineering from Beihang University (BUAA), Beijing, China, in 2012 and 2015, respectively, and the Ph.D. degree in electrical and electronic engineering from The University of Hong Kong (HKU) in 2019. From 2019 to 2020, he was a Senior Research Engineer with the Huawei Noah’s Ark Laboratory. From December 2020 to March 2025, he was a Research Scientist with Shenzhen Research Institute of Big Data, and also was an Adjunct Assistant Professor with the School of Science and Engineering, The Chinese University of Hong Kong, Shenzhen, China. Since March 2025, he has been an Associate Professor with the School of Computing and Information Technology, Great Bay University (GBU), Dongguan, China. His research interests include wireless communications, learning to optimize, and distributed optimization. He was a recipient of the 2020 Innovation Pioneer Award from Huawei.
 
-Getting started
+Research Interests
 ======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this template](https://github.com/academicpages/academicpages.github.io) by clicking the "Use this template" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
+1. My research expertise lies at the intersection of wireless communications, deep learning, and optimization, with extensive experience and substantial contributions in developing distributed optimization and deep learning algorithms for optimization problems arising in Internet of Things (IoT), cell-free massive MIMO, and large-scale wireless networks.
+1. My current research interests are learning-to-optimize, AI-empowered communications, massive grant-free random access, cell-free networks, near-field communications, movable antennas, and various optimization problems from beyond 5G communications.
 
 Site-wide configuration
 ------
