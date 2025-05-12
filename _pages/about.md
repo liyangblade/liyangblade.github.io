@@ -27,7 +27,8 @@ Research Interests
 Openings
 ======
 + <p align="justify">I am looking for <strong>self-motivated</strong> students with <strong>solid mathematical</strong> background who are interested in pursuing Master's (joint program with Southern University of Science and Technology) or Ph.D. (joint program with Sun Yat-sen University) degrees.</p>
-+ <p align="justify">I am also looking for <strong>self-motivated</strong> postdoctoral fellows (joint program with Tsinghua Shenzhen International Graduate School) with <strong>solid mathematical</strong> background who are interested in working on cutting-edge problems in 6G communications. More details are included in [here](https://www.gbu.edu.cn/detail/article/1323){:target="_blank"}.</p>
++ <p align="justify">I am also looking for <strong>self-motivated</strong> postdoctoral fellows (joint program with Tsinghua Shenzhen International Graduate School) with <strong>solid mathematical</strong> background who are interested in working on cutting-edge problems in 6G communications. More details are included in 
+  <a href="https://www.gbu.edu.cn/detail/article/1323"{:target="_blank"}>here</a>.</p>
 + <p align="justify">Please send me an email (with a copy of your CV) for details.</p>
 
 
