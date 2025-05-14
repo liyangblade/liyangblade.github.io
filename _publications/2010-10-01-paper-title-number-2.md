@@ -127,8 +127,11 @@ Selected Journal Papers (* denotes the corresponding author)
 <div class="paper-entry"> 
 [J4] <strong>Yang Li</strong>, Minghua Xia, and Yik-Chung Wu, “Activity Detection for Massive Connectivity under Frequency Offsets via First-Order Algorithms,” <em>IEEE Transactions on Wireless Communications</em>, vol. 18, no. 3, pp. 1988-2002, Mar. 2019. <a href="https://ieeexplore.ieee.org/document/8657965">[link]</a>
  </div>
-  
-[J3] Yang Li, Minghua Xia, and Yik-Chung Wu, “First-Order Algorithm for Content-Centric Sparse Multicast Beamforming in Large-Scale C-RAN,” IEEE Transactions on Wireless Communications, vol. 17, no. 9, pp. 5959-5974, Sep. 2018.
+
+ <div class="paper-entry">  
+[J3] <strong>Yang Li</strong>, Minghua Xia, and Yik-Chung Wu, “First-Order Algorithm for Content-Centric Sparse Multicast Beamforming in Large-Scale C-RAN,” <em>IEEE Transactions on Wireless Communications</em>, vol. 17, no. 9, pp. 5959-5974, Sep. 2018. <a href="https://ieeexplore.ieee.org/document/8410057">[link]</a>
+ </div>
+   
 [J2] Yang Li, Yafei Tian, and Chenyang Yang, “Beamforming Design with Proactive Interference Cancelation in MISO Interference Channels,” EURASIP Journal on Advances in Signal Processing, vol. 67, pp. 1–11, Aug. 2015.
 [J1] Yang Li, Yafei Tian, and Chenyang Yang, “Energy-Efficient Coordinated Beamforming Under Minimal Data Rate Constraint of Each User,” IEEE Transactions on Vehicular Technology, vol. 64, no. 6, pp. 2387-2397, Jun. 2015.
 
