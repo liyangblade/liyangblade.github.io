@@ -115,8 +115,11 @@ Selected Journal Papers (* denotes the corresponding author)
  <div class="paper-entry">   
 [J7] <strong>Yang Li</strong>, Zhitang Chen, Guochen Liu, Yik-Chung Wu, and Kai-Kit Wong, “Learning to Construct Nested Polar Codes: An Attention-Based Set-to-Element Model,” <em>IEEE Communications Letters</em>, vol. 25, no. 12, pp. 3898-3902, Dec. 2021. <a href="https://ieeexplore.ieee.org/document/9541201">[link]</a>
  </div>
+
+ <div class="paper-entry">   
+[J6] <strong>Yang Li</strong>, Minghua Xia, and Yik-Chung Wu, “Cache Allocation at Base Stations with Multi-Cluster Multicast Backhaul via Accelerated First-Order Algorithm,” <em>IEEE Transactions on Wireless Communications</em>, vol. 19, no. 5, pp. 2920-2933, May 2020. <a href="https://ieeexplore.ieee.org/document/8976409">[link]</a>
+ </div>
    
-[J6] Yang Li, Minghua Xia, and Yik-Chung Wu, “Cache Allocation at Base Stations with Multi-Cluster Multicast Backhaul via Accelerated First-Order Algorithm,” IEEE Transactions on Wireless Communications, vol. 19, no. 5, pp. 2920-2933, May 2020.
 [J5] Yang Li, Minghua Xia, and Yik-Chung Wu, “Energy-Efficient Precoding for Non-Orthogonal Multicast and Unicast Transmission via First-Order Algorithm,” IEEE Transactions on Wireless Communications, vol. 18, no. 9, pp. 4590-4604, Sep. 2019.
 [J4] Yang Li, Minghua Xia, and Yik-Chung Wu, “Activity Detection for Massive Connectivity under Frequency Offsets via First-Order Algorithms,” IEEE Transactions on Wireless Communications, vol. 18, no. 3, pp. 1988-2002, Mar. 2019.
 [J3] Yang Li, Minghua Xia, and Yik-Chung Wu, “First-Order Algorithm for Content-Centric Sparse Multicast Beamforming in Large-Scale C-RAN,” IEEE Transactions on Wireless Communications, vol. 17, no. 9, pp. 5959-5974, Sep. 2018.
