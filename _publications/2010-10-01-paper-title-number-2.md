@@ -93,7 +93,7 @@ Selected Journal Papers (* denotes the corresponding author)
  </div>
 
   <div class="paper-entry">    
-[J12] <strong>Yang Li*</strong>, Zhilin Chen, Yunqi Wang, Chenyang Yang, Bo Ai, and Yik-Chung Wu, “Heterogeneous Transformer: A Scale Adaptable Neural Network Architecture for Device Activity Detection,” <em>IEEE Transactions on Wireless Communications<\em>, vol. 22, no. 5, pp. 3432-3446, May 2023. <a href="https://ieeexplore.ieee.org/document/9941253" target="_blank">[link]</a>
+[J12] <strong>Yang Li*</strong>, Zhilin Chen, Yunqi Wang, Chenyang Yang, Bo Ai, and Yik-Chung Wu, “Heterogeneous Transformer: A Scale Adaptable Neural Network Architecture for Device Activity Detection,” <em>IEEE Transactions on Wireless Communications</em>, vol. 22, no. 5, pp. 3432-3446, May 2023. <a href="https://ieeexplore.ieee.org/document/9941253" target="_blank">[link]</a>
  </div>
 
   <div class="paper-entry">    
