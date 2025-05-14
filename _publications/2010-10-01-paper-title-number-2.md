@@ -105,39 +105,39 @@ Selected Journal Papers (* denotes the corresponding author)
  </div>
 
 <div class="paper-entry"> 
-  [J9] <strong>Yang Li</strong>, Shutao Zhang, Xiaohui Ren, Jianhang Zhu, Jiajie Huang, Pengcheng He, Kaiming Shen, Zhiqiang Yao, Jie Gong, Tsung-Hui Chang, Qingjiang Shi, and Zhi-Quan Luo, “Real-World Wireless Network Modeling and Optimization: From Model/Data-Driven Perspective,” <em>Chinese Journal of Electronics</em>, vol. 31, no. 6, pp. 991-1012, Nov. 2022. <a href="https://cje.ejournal.org.cn/article/doi/10.1049/cje.2022.00.191">[link]</a>
+  [J9] <strong>Yang Li</strong>, Shutao Zhang, Xiaohui Ren, Jianhang Zhu, Jiajie Huang, Pengcheng He, Kaiming Shen, Zhiqiang Yao, Jie Gong, Tsung-Hui Chang, Qingjiang Shi, and Zhi-Quan Luo, “Real-World Wireless Network Modeling and Optimization: From Model/Data-Driven Perspective,” <em>Chinese Journal of Electronics</em>, vol. 31, no. 6, pp. 991-1012, Nov. 2022. <a href="https://cje.ejournal.org.cn/article/doi/10.1049/cje.2022.00.191" target="_blank">[link]</a>
  </div>
   
  <div class="paper-entry">  
-[J8] Zongze Li, Shuai Wang, Qingfeng Lin, <strong>Yang Li</strong>, Miaowen Wen, Yik-Chung Wu, and H. Vincent Poor, “Phase Shift Design in RIS Empowered Wireless Networks: From Optimization to AI-Based Methods,” <em>Network</em>, vol. 2, no. 3, pp. 398-418, Jul. 2022. <a href="https://www.mdpi.com/2673-8732/2/3/25">[link]</a>
+[J8] Zongze Li, Shuai Wang, Qingfeng Lin, <strong>Yang Li</strong>, Miaowen Wen, Yik-Chung Wu, and H. Vincent Poor, “Phase Shift Design in RIS Empowered Wireless Networks: From Optimization to AI-Based Methods,” <em>Network</em>, vol. 2, no. 3, pp. 398-418, Jul. 2022. <a href="https://www.mdpi.com/2673-8732/2/3/25" target="_blank">[link]</a>
  </div>
 
  <div class="paper-entry">   
-[J7] <strong>Yang Li</strong>, Zhitang Chen, Guochen Liu, Yik-Chung Wu, and Kai-Kit Wong, “Learning to Construct Nested Polar Codes: An Attention-Based Set-to-Element Model,” <em>IEEE Communications Letters</em>, vol. 25, no. 12, pp. 3898-3902, Dec. 2021. <a href="https://ieeexplore.ieee.org/document/9541201">[link]</a>
+[J7] <strong>Yang Li</strong>, Zhitang Chen, Guochen Liu, Yik-Chung Wu, and Kai-Kit Wong, “Learning to Construct Nested Polar Codes: An Attention-Based Set-to-Element Model,” <em>IEEE Communications Letters</em>, vol. 25, no. 12, pp. 3898-3902, Dec. 2021. <a href="https://ieeexplore.ieee.org/document/9541201" target="_blank">[link]</a>
  </div>
 
  <div class="paper-entry">   
-[J6] <strong>Yang Li</strong>, Minghua Xia, and Yik-Chung Wu, “Cache Allocation at Base Stations with Multi-Cluster Multicast Backhaul via Accelerated First-Order Algorithm,” <em>IEEE Transactions on Wireless Communications</em>, vol. 19, no. 5, pp. 2920-2933, May 2020. <a href="https://ieeexplore.ieee.org/document/8976409">[link]</a>
+[J6] <strong>Yang Li</strong>, Minghua Xia, and Yik-Chung Wu, “Cache Allocation at Base Stations with Multi-Cluster Multicast Backhaul via Accelerated First-Order Algorithm,” <em>IEEE Transactions on Wireless Communications</em>, vol. 19, no. 5, pp. 2920-2933, May 2020. <a href="https://ieeexplore.ieee.org/document/8976409" target="_blank">[link]</a>
  </div>
 
  <div class="paper-entry"> 
-[J5] <strong>Yang Li</strong>, Minghua Xia, and Yik-Chung Wu, “Energy-Efficient Precoding for Non-Orthogonal Multicast and Unicast Transmission via First-Order Algorithm,” <em>IEEE Transactions on Wireless Communications</em>, vol. 18, no. 9, pp. 4590-4604, Sep. 2019. <a href="https://ieeexplore.ieee.org/document/8764614">[link]</a>
+[J5] <strong>Yang Li</strong>, Minghua Xia, and Yik-Chung Wu, “Energy-Efficient Precoding for Non-Orthogonal Multicast and Unicast Transmission via First-Order Algorithm,” <em>IEEE Transactions on Wireless Communications</em>, vol. 18, no. 9, pp. 4590-4604, Sep. 2019. <a href="https://ieeexplore.ieee.org/document/8764614" target="_blank">[link]</a>
  </div>
 
 <div class="paper-entry"> 
-[J4] <strong>Yang Li</strong>, Minghua Xia, and Yik-Chung Wu, “Activity Detection for Massive Connectivity under Frequency Offsets via First-Order Algorithms,” <em>IEEE Transactions on Wireless Communications</em>, vol. 18, no. 3, pp. 1988-2002, Mar. 2019. <a href="https://ieeexplore.ieee.org/document/8657965">[link]</a>
+[J4] <strong>Yang Li</strong>, Minghua Xia, and Yik-Chung Wu, “Activity Detection for Massive Connectivity under Frequency Offsets via First-Order Algorithms,” <em>IEEE Transactions on Wireless Communications</em>, vol. 18, no. 3, pp. 1988-2002, Mar. 2019. <a href="https://ieeexplore.ieee.org/document/8657965" target="_blank">[link]</a>
  </div>
 
  <div class="paper-entry">  
-[J3] <strong>Yang Li</strong>, Minghua Xia, and Yik-Chung Wu, “First-Order Algorithm for Content-Centric Sparse Multicast Beamforming in Large-Scale C-RAN,” <em>IEEE Transactions on Wireless Communications</em>, vol. 17, no. 9, pp. 5959-5974, Sep. 2018. <a href="https://ieeexplore.ieee.org/document/8410057">[link]</a>
+[J3] <strong>Yang Li</strong>, Minghua Xia, and Yik-Chung Wu, “First-Order Algorithm for Content-Centric Sparse Multicast Beamforming in Large-Scale C-RAN,” <em>IEEE Transactions on Wireless Communications</em>, vol. 17, no. 9, pp. 5959-5974, Sep. 2018. <a href="https://ieeexplore.ieee.org/document/8410057" target="_blank">[link]</a>
  </div>
 
  <div class="paper-entry">  
-[J2] <strong>Yang Li</strong>, Yafei Tian, and Chenyang Yang, “Beamforming Design with Proactive Interference Cancelation in MISO Interference Channels,” <em>EURASIP Journal on Advances in Signal Processing</em>, vol. 67, pp. 1–11, Aug. 2015. <a href="https://asp-eurasipjournals.springeropen.com/articles/10.1186/s13634-015-0253-7">[link]</a>
+[J2] <strong>Yang Li</strong>, Yafei Tian, and Chenyang Yang, “Beamforming Design with Proactive Interference Cancelation in MISO Interference Channels,” <em>EURASIP Journal on Advances in Signal Processing</em>, vol. 67, pp. 1–11, Aug. 2015. <a href="https://asp-eurasipjournals.springeropen.com/articles/10.1186/s13634-015-0253-7" target="_blank">[link]</a>
  </div>
 
  <div class="paper-entry">     
-[J1]  <strong>Yang Li</strong>, Yafei Tian, and Chenyang Yang, “Energy-Efficient Coordinated Beamforming Under Minimal Data Rate Constraint of Each User,” <em>IEEE Transactions on Vehicular Technology</em>, vol. 64, no. 6, pp. 2387-2397, Jun. 2015. <a href="https://ieeexplore.ieee.org/document/6866226">[link]</a>
+[J1]  <strong>Yang Li</strong>, Yafei Tian, and Chenyang Yang, “Energy-Efficient Coordinated Beamforming Under Minimal Data Rate Constraint of Each User,” <em>IEEE Transactions on Vehicular Technology</em>, vol. 64, no. 6, pp. 2387-2397, Jun. 2015. <a href="https://ieeexplore.ieee.org/document/6866226" target="_blank">[link]</a>
  </div>
 
 </p>
