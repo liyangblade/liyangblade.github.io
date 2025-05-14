@@ -97,11 +97,15 @@ Selected Journal Papers (* denotes the corresponding author)
  </div>
 
   <div class="paper-entry">    
-[J11] <strong>Yang Li*</strong>, Qingfeng Lin, Ya-Feng Liu, Bo Ai, and Yik-Chung Wu, “Asynchronous Activity Detection for Cell-Free Massive MIMO: From Centralized to Distributed Algorithms,” <em>IEEE Transactions on Wireless Communications</em>, vol. 22, no. 4, pp. 2477-2492, Apr. 2023. <a href="https://ieeexplore.ieee.org/document/9941253" target="_blank">[link]</a>
+[J11] <strong>Yang Li*</strong>, Qingfeng Lin, Ya-Feng Liu, Bo Ai, and Yik-Chung Wu, “Asynchronous Activity Detection for Cell-Free Massive MIMO: From Centralized to Distributed Algorithms,” <em>IEEE Transactions on Wireless Communications</em>, vol. 22, no. 4, pp. 2477-2492, Apr. 2023. <a href="https://ieeexplore.ieee.org/document/9916169" target="_blank">[link]</a>
+ </div>
 
-    
-[J10] Qingfeng Lin, Yang Li*, and Yik-Chung Wu, “Sparsity Constrained Joint Activity and Data Detection for Massive Access: A Difference-of-Norms Penalty Framework,” IEEE Transactions on Wireless Communications, vol. 22, no. 3, pp. 1480-1494, Mar. 2023.  
-[J9] Yang Li, Shutao Zhang, Xiaohui Ren, Jianhang Zhu, Jiajie Huang, Pengcheng He, Kaiming Shen, Zhiqiang Yao, Jie Gong, Tsung-Hui Chang, Qingjiang Shi, and Zhi-Quan Luo, “Real-World Wireless Network Modeling and Optimization: From Model/Data-Driven Perspective,” Chinese Journal of Electronics, vol. 31, no. 6, pp. 991-1012, Nov. 2022.
+<div class="paper-entry">  
+[J10] Qingfeng Lin, <strong>Yang Li*</strong>, and Yik-Chung Wu, “Sparsity Constrained Joint Activity and Data Detection for Massive Access: A Difference-of-Norms Penalty Framework,” <em>IEEE Transactions on Wireless Communications</em>, vol. 22, no. 3, pp. 1480-1494, Mar. 2023.  <a href="https://ieeexplore.ieee.org/document/9893021">[link]</a>
+ </div>
+
+  
+  [J9] Yang Li, Shutao Zhang, Xiaohui Ren, Jianhang Zhu, Jiajie Huang, Pengcheng He, Kaiming Shen, Zhiqiang Yao, Jie Gong, Tsung-Hui Chang, Qingjiang Shi, and Zhi-Quan Luo, “Real-World Wireless Network Modeling and Optimization: From Model/Data-Driven Perspective,” Chinese Journal of Electronics, vol. 31, no. 6, pp. 991-1012, Nov. 2022.
 [J8] Zongze Li, Shuai Wang, Qingfeng Lin, Yang Li, Miaowen Wen, Yik-Chung Wu, and H. Vincent Poor, “Phase Shift Design in RIS Empowered Wireless Networks: From Optimization to AI-Based Methods,” Network, vol. 2, no. 3, pp. 398-418, Jul. 2022.
 [J7] Yang Li*, Zhitang Chen, Guochen Liu, Yik-Chung Wu, and Kai-Kit Wong, “Learning to Construct Nested Polar Codes: An Attention-Based Set-to-Element Model,” IEEE Communications Letters, vol. 25, no. 12, pp. 3898-3902, Dec. 2021.
 [J6] Yang Li, Minghua Xia, and Yik-Chung Wu, “Cache Allocation at Base Stations with Multi-Cluster Multicast Backhaul via Accelerated First-Order Algorithm,” IEEE Transactions on Wireless Communications, vol. 19, no. 5, pp. 2920-2933, May 2020.
