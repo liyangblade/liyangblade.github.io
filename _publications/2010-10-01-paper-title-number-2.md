@@ -11,4 +11,12 @@ paperurl: 'http://academicpages.github.io/files/paper2.pdf'
 citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
 ---
 
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+Working Papers  
+======
+
+<p align="justify">
+[J29] Yichen Jin, Qingfeng Lin, **Yang Li**, Hancheng Zhu, Bingyang Cheng, Yik-Chung Wu, and Rui Zhang, “A General Optimization Framework for Tackling Distance Constraints in Movable Antenna-Aided Systems,” submitted to IEEE Transactions on Wireless Communications, Mar. 2025.
+[J28] Zeyi Ren, Qingfeng Lin, Jingreng Lei, **Yang Li**, and Yik-Chung Wu, “Mixture of Experts-augmented Deep Unfolding for Activity Detection in IRS-aided Systems,” submitted to IEEE Wireless Communications Letters, Feb. 2025.
+[J27] Yang Leng, Qingfeng Lin, Long-Yin Yung, Jingreng Lei, **Yang Li**, and Yik-Chung Wu, “Unveiling the Power of Complex-Valued Transformers in Wireless Communications,” IEEE Transactions on Communications, major revision, May 2025.
+[J26] Hao Zhang, Qingfeng Lin, **Yang Li**, and Yik-Chung Wu, “AMP-based Joint Activity Detection and Channel Estimation in IRS-aided Grant-free Access with Accurate Channel and Sparsity Modeling,” IEEE Transactions on Communications, major revision, Apr. 2025.
+</p>
