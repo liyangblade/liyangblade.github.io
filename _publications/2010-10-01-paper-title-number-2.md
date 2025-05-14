@@ -11,8 +11,8 @@ Working Papers
 -----
 <style>
   .paper-entry {
-    text-indent: -2.3em;    /* 缩进负值（根据编号长度调整） */
-    margin-left: 2.3em;      /* 补偿缩进 */
+    text-indent: -2.5em;    /* 缩进负值（根据编号长度调整） */
+    margin-left: 2.5em;      /* 补偿缩进 */
     margin-bottom: 0.5em;    /* 条目间距 */
     text-align: justify;
   }
