@@ -49,11 +49,11 @@ Selected Journal Papers (* denotes the corresponding author)
 -----
 <p align="justify">
   <div class="paper-entry">
-   [J23] Zhenrong Liu, <strong>Yang Li*</strong>, Yik-Chung Wu, and Yi Gong, “Learning to Optimize Resource Allocation in Dynamic Wireless Environments: Embracing the New While Engaging the Old,” <em>IEEE Transactions on Wireless Communications</em>, early access, Apr. 2025.
+   [J23] Zhenrong Liu, <strong>Yang Li*</strong>, Yik-Chung Wu, and Yi Gong, “Learning to Optimize Resource Allocation in Dynamic Wireless Environments: Embracing the New While Engaging the Old,” <em>IEEE Transactions on Wireless Communications</em>, early access, Apr. 2025. [[link]](https://ieeexplore.ieee.org/document/10970427){:target="_blank"}
   </div>
 
   <div class="paper-entry">
-   [J22] Jingreng Lei, <strong>Yang Li*</strong>, Long-Yin Yung, Yang Leng, Qingfeng Lin, and Yik-Chung Wu, “Understanding Complex-Valued Transformer for Modulation Recognition,” <em>IEEE Wireless Communications Letters</em>, vol. 13, no. 12, pp. 3523-3527, Dec. 2024.
+   [J22] Jingreng Lei, <strong>Yang Li*</strong>, Long-Yin Yung, Yang Leng, Qingfeng Lin, and Yik-Chung Wu, “Understanding Complex-Valued Transformer for Modulation Recognition,” <em>IEEE Wireless Communications Letters</em>, vol. 13, no. 12, pp. 3523-3527, Dec. 2024. [[link]](https://ieeexplore.ieee.org/document/10707363){:target="_blank"}
   </div>
 
 </p>
