@@ -108,8 +108,10 @@ Selected Journal Papers (* denotes the corresponding author)
   [J9] <strong>Yang Li</strong>, Shutao Zhang, Xiaohui Ren, Jianhang Zhu, Jiajie Huang, Pengcheng He, Kaiming Shen, Zhiqiang Yao, Jie Gong, Tsung-Hui Chang, Qingjiang Shi, and Zhi-Quan Luo, “Real-World Wireless Network Modeling and Optimization: From Model/Data-Driven Perspective,” <em>Chinese Journal of Electronics</em>, vol. 31, no. 6, pp. 991-1012, Nov. 2022. <a href="https://cje.ejournal.org.cn/article/doi/10.1049/cje.2022.00.191">[link]</a>
  </div>
   
-  
-  [J8] Zongze Li, Shuai Wang, Qingfeng Lin, Yang Li, Miaowen Wen, Yik-Chung Wu, and H. Vincent Poor, “Phase Shift Design in RIS Empowered Wireless Networks: From Optimization to AI-Based Methods,” Network, vol. 2, no. 3, pp. 398-418, Jul. 2022.
+ <div class="paper-entry">  
+[J8] Zongze Li, Shuai Wang, Qingfeng Lin, <strong>Yang Li</strong>, Miaowen Wen, Yik-Chung Wu, and H. Vincent Poor, “Phase Shift Design in RIS Empowered Wireless Networks: From Optimization to AI-Based Methods,” Network, vol. 2, no. 3, pp. 398-418, Jul. 2022.
+ </div>
+   
 [J7] Yang Li*, Zhitang Chen, Guochen Liu, Yik-Chung Wu, and Kai-Kit Wong, “Learning to Construct Nested Polar Codes: An Attention-Based Set-to-Element Model,” IEEE Communications Letters, vol. 25, no. 12, pp. 3898-3902, Dec. 2021.
 [J6] Yang Li, Minghua Xia, and Yik-Chung Wu, “Cache Allocation at Base Stations with Multi-Cluster Multicast Backhaul via Accelerated First-Order Algorithm,” IEEE Transactions on Wireless Communications, vol. 19, no. 5, pp. 2920-2933, May 2020.
 [J5] Yang Li, Minghua Xia, and Yik-Chung Wu, “Energy-Efficient Precoding for Non-Orthogonal Multicast and Unicast Transmission via First-Order Algorithm,” IEEE Transactions on Wireless Communications, vol. 18, no. 9, pp. 4590-4604, Sep. 2019.
