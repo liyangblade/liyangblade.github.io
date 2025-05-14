@@ -109,10 +109,13 @@ Selected Journal Papers (* denotes the corresponding author)
  </div>
   
  <div class="paper-entry">  
-[J8] Zongze Li, Shuai Wang, Qingfeng Lin, <strong>Yang Li</strong>, Miaowen Wen, Yik-Chung Wu, and H. Vincent Poor, “Phase Shift Design in RIS Empowered Wireless Networks: From Optimization to AI-Based Methods,” <em>Network</em>, vol. 2, no. 3, pp. 398-418, Jul. 2022.  <a href="https://www.mdpi.com/2673-8732/2/3/25">[link]</a>
+[J8] Zongze Li, Shuai Wang, Qingfeng Lin, <strong>Yang Li</strong>, Miaowen Wen, Yik-Chung Wu, and H. Vincent Poor, “Phase Shift Design in RIS Empowered Wireless Networks: From Optimization to AI-Based Methods,” <em>Network</em>, vol. 2, no. 3, pp. 398-418, Jul. 2022. <a href="https://www.mdpi.com/2673-8732/2/3/25">[link]</a>
+ </div>
+
+ <div class="paper-entry">   
+[J7] <strong>Yang Li</strong>, Zhitang Chen, Guochen Liu, Yik-Chung Wu, and Kai-Kit Wong, “Learning to Construct Nested Polar Codes: An Attention-Based Set-to-Element Model,” <em>IEEE Communications Letters</em>, vol. 25, no. 12, pp. 3898-3902, Dec. 2021. <a href="https://ieeexplore.ieee.org/document/9541201">[link]</a>
  </div>
    
-[J7] Yang Li*, Zhitang Chen, Guochen Liu, Yik-Chung Wu, and Kai-Kit Wong, “Learning to Construct Nested Polar Codes: An Attention-Based Set-to-Element Model,” IEEE Communications Letters, vol. 25, no. 12, pp. 3898-3902, Dec. 2021.
 [J6] Yang Li, Minghua Xia, and Yik-Chung Wu, “Cache Allocation at Base Stations with Multi-Cluster Multicast Backhaul via Accelerated First-Order Algorithm,” IEEE Transactions on Wireless Communications, vol. 19, no. 5, pp. 2920-2933, May 2020.
 [J5] Yang Li, Minghua Xia, and Yik-Chung Wu, “Energy-Efficient Precoding for Non-Orthogonal Multicast and Unicast Transmission via First-Order Algorithm,” IEEE Transactions on Wireless Communications, vol. 18, no. 9, pp. 4590-4604, Sep. 2019.
 [J4] Yang Li, Minghua Xia, and Yik-Chung Wu, “Activity Detection for Massive Connectivity under Frequency Offsets via First-Order Algorithms,” IEEE Transactions on Wireless Communications, vol. 18, no. 3, pp. 1988-2002, Mar. 2019.
