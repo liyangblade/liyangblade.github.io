@@ -135,9 +135,10 @@ Selected Journal Papers (* denotes the corresponding author)
  <div class="paper-entry">  
 [J2] <strong>Yang Li</strong>, Yafei Tian, and Chenyang Yang, “Beamforming Design with Proactive Interference Cancelation in MISO Interference Channels,” <em>EURASIP Journal on Advances in Signal Processing</em>, vol. 67, pp. 1–11, Aug. 2015. <a href="https://asp-eurasipjournals.springeropen.com/articles/10.1186/s13634-015-0253-7">[link]</a>
  </div>
-   
-[J1] Yang Li, Yafei Tian, and Chenyang Yang, “Energy-Efficient Coordinated Beamforming Under Minimal Data Rate Constraint of Each User,” IEEE Transactions on Vehicular Technology, vol. 64, no. 6, pp. 2387-2397, Jun. 2015.
 
+ <div class="paper-entry">     
+[J1]  <strong>Yang Li</strong>, Yafei Tian, and Chenyang Yang, “Energy-Efficient Coordinated Beamforming Under Minimal Data Rate Constraint of Each User,” <em>IEEE Transactions on Vehicular Technology</em>, vol. 64, no. 6, pp. 2387-2397, Jun. 2015. <a href="https://ieeexplore.ieee.org/document/6866226">[link]</a>
+ </div>
 
 </p>
 
