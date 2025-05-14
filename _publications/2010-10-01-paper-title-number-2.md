@@ -73,12 +73,21 @@ Selected Journal Papers (* denotes the corresponding author)
   </div>
 
     <div class="paper-entry">
-[J17] <strong>Yang Li</strong>, Fan Xu, Tsung-Hui Chang, and Ya-Feng Liu, “Wireless Resource Optimization under Complex Constraints: Methods and Insights from an AI Perspective,” <em>Mobile Communications</em>, vol. 48, no. 7, pp. 73-79, 2024.
- </div> <a href="https://d.wanfangdata.com.cn/periodical/ydtx202407011" target="_blank">[link]</a>
+[J17] <strong>Yang Li</strong>, Fan Xu, Tsung-Hui Chang, and Ya-Feng Liu, “Wireless Resource Optimization under Complex Constraints: Methods and Insights from an AI Perspective,” <em>Mobile Communications</em>, vol. 48, no. 7, pp. 73-79, 2024. <a href="https://d.wanfangdata.com.cn/periodical/ydtx202407011" target="_blank">[link]</a>
+ </div> 
 
-[J16] Yunqi Wang, Yang Li*, Qingjiang Shi, and Yik-Chung Wu, “ENGNN: A General Edge-Update Empowered GNN Architecture for Radio Resource Management in Wireless Networks,” IEEE Transactions on Wireless Communications, vol. 23, no. 6, pp. 5330-5344, Jun. 2024.
-[J15] Hao Zhang, Qingfeng Lin, Yang Li*, Lei Cheng, and Yik-Chung Wu, “Activity Detection for Massive Connectivity in Cell-Free Networks with Unknown Large-scale Fading, Channel Statistics, Noise Variance, and Active Probability: A Bayesian Approach,” IEEE Transactions on Signal Processing, vol. 72, pp. 942-957, 2024.
-[J14] Guangxu Zhu, Yang Li, Yi Chen, Shuqi Chai, Qingjiang Shi, and Zhi-Quan Luo, “The Global Competitive Situation of 6G Key Technology R&D and China's Countermeasures,” Strategic Study of Chinese Academy of Engineering, vol. 25, no. 6, pp. 9-17, 2023.
+<div class="paper-entry">
+[J16] Yunqi Wang, <strong>Yang Li*</strong>, Qingjiang Shi, and Yik-Chung Wu, “ENGNN: A General Edge-Update Empowered GNN Architecture for Radio Resource Management in Wireless Networks,” <em>IEEE Transactions on Wireless Communications</em>, vol. 23, no. 6, pp. 5330-5344, Jun. 2024. <a href="https://ieeexplore.ieee.org/document/10296858" target="_blank">[link]</a>
+ </div> 
+
+ <div class="paper-entry"> 
+[J15] Hao Zhang, Qingfeng Lin, <strong>Yang Li*</strong>, Lei Cheng, and Yik-Chung Wu, “Activity Detection for Massive Connectivity in Cell-Free Networks with Unknown Large-scale Fading, Channel Statistics, Noise Variance, and Active Probability: A Bayesian Approach,” <em>IEEE Transactions on Signal Processing</em>, vol. 72, pp. 942-957, 2024. <a href="https://ieeexplore.ieee.org/document/10418889" target="_blank">[link]</a>
+ </div> 
+
+   <div class="paper-entry">  
+[J14] Guangxu Zhu, <strong>Yang Li</strong>, Yi Chen, Shuqi Chai, Qingjiang Shi, and Zhi-Quan Luo, “The Global Competitive Situation of 6G Key Technology R&D and China's Countermeasures,” <em>Strategic Study of Chinese Academy of Engineering</em>, vol. 25, no. 6, pp. 9-17, 2023. <a href="https://www.engineering.org.cn/sscae/CN/10.15302/J-SSCAE-2023.06.002" target="_blank">[link]</a>
+ </div>
+     
 [J13] Mian Li, Yang Li, Tsung-Hui Chang, and Qingjiang Shi, “Communication-Efficient Distributed Precoding for Massive MIMO,” Journal on Communications, vol. 44, no. 8, pp. 37-48, Aug. 2023.
 [J12] Yang Li*, Zhilin Chen, Yunqi Wang, Chenyang Yang, Bo Ai, and Yik-Chung Wu, “Heterogeneous Transformer: A Scale Adaptable Neural Network Architecture for Device Activity Detection,” IEEE Transactions on Wireless Communications, vol. 22, no. 5, pp. 3432-3446, May 2023. 
 [J11] Yang Li*, Qingfeng Lin, Ya-Feng Liu, Bo Ai, and Yik-Chung Wu, “Asynchronous Activity Detection for Cell-Free Massive MIMO: From Centralized to Distributed Algorithms,” IEEE Transactions on Wireless Communications, vol. 22, no. 4, pp. 2477-2492, Apr. 2023.
