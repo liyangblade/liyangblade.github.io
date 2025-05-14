@@ -1,13 +1,11 @@
 ---
-permalink: /
+layout: archive
 title: "Publications"
+permalink: /publications/
 author_profile: true
 redirect_from: 
-  - /publications/
-  - /publications.html
+  - /publications
 ---
-
-
 
 Working Papers  
 ======
