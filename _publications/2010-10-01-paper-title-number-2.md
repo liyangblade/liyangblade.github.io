@@ -92,8 +92,10 @@ Selected Journal Papers (* denotes the corresponding author)
 [J13] Mian Li, <strong>Yang Li</strong>, Tsung-Hui Chang, and Qingjiang Shi, “Communication-Efficient Distributed Precoding for Massive MIMO,” <em>Journal on Communications</em>, vol. 44, no. 8, pp. 37-48, Aug. 2023. a href="https://www.joconline.com.cn/zh/article/doi/10.11959/j.issn.1000-436x.2023147/" target="_blank">[link]</a>
  </div>
 
+  <div class="paper-entry">    
+[J12] <strong>Yang Li*</strong>, Zhilin Chen, Yunqi Wang, Chenyang Yang, Bo Ai, and Yik-Chung Wu, “Heterogeneous Transformer: A Scale Adaptable Neural Network Architecture for Device Activity Detection,” <em>IEEE Transactions on Wireless Communications<\em>, vol. 22, no. 5, pp. 3432-3446, May 2023. a href="https://ieeexplore.ieee.org/document/9941253" target="_blank">[link]</a>
+ </div>
     
-[J12] Yang Li*, Zhilin Chen, Yunqi Wang, Chenyang Yang, Bo Ai, and Yik-Chung Wu, “Heterogeneous Transformer: A Scale Adaptable Neural Network Architecture for Device Activity Detection,” IEEE Transactions on Wireless Communications, vol. 22, no. 5, pp. 3432-3446, May 2023. 
 [J11] Yang Li*, Qingfeng Lin, Ya-Feng Liu, Bo Ai, and Yik-Chung Wu, “Asynchronous Activity Detection for Cell-Free Massive MIMO: From Centralized to Distributed Algorithms,” IEEE Transactions on Wireless Communications, vol. 22, no. 4, pp. 2477-2492, Apr. 2023.
 [J10] Qingfeng Lin, Yang Li*, and Yik-Chung Wu, “Sparsity Constrained Joint Activity and Data Detection for Massive Access: A Difference-of-Norms Penalty Framework,” IEEE Transactions on Wireless Communications, vol. 22, no. 3, pp. 1480-1494, Mar. 2023.  
 [J9] Yang Li, Shutao Zhang, Xiaohui Ren, Jianhang Zhu, Jiajie Huang, Pengcheng He, Kaiming Shen, Zhiqiang Yao, Jie Gong, Tsung-Hui Chang, Qingjiang Shi, and Zhi-Quan Luo, “Real-World Wireless Network Modeling and Optimization: From Model/Data-Driven Perspective,” Chinese Journal of Electronics, vol. 31, no. 6, pp. 991-1012, Nov. 2022.
