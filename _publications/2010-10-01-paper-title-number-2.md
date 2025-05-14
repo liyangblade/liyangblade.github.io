@@ -109,7 +109,7 @@ Selected Journal Papers (* denotes the corresponding author)
  </div>
   
  <div class="paper-entry">  
-[J8] Zongze Li, Shuai Wang, Qingfeng Lin, <strong>Yang Li</strong>, Miaowen Wen, Yik-Chung Wu, and H. Vincent Poor, “Phase Shift Design in RIS Empowered Wireless Networks: From Optimization to AI-Based Methods,” Network, vol. 2, no. 3, pp. 398-418, Jul. 2022.
+[J8] Zongze Li, Shuai Wang, Qingfeng Lin, <strong>Yang Li</strong>, Miaowen Wen, Yik-Chung Wu, and H. Vincent Poor, “Phase Shift Design in RIS Empowered Wireless Networks: From Optimization to AI-Based Methods,” <em>Network</em>, vol. 2, no. 3, pp. 398-418, Jul. 2022.  <a href="https://www.mdpi.com/2673-8732/2/3/25">[link]</a>
  </div>
    
 [J7] Yang Li*, Zhitang Chen, Guochen Liu, Yik-Chung Wu, and Kai-Kit Wong, “Learning to Construct Nested Polar Codes: An Attention-Based Set-to-Element Model,” IEEE Communications Letters, vol. 25, no. 12, pp. 3898-3902, Dec. 2021.
