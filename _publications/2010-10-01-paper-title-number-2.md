@@ -71,8 +71,11 @@ Selected Journal Papers (* denotes the corresponding author)
   <div class="paper-entry">
 [J18] <strong>Yang Li</strong> and Ya-Feng Liu, “HPE Transformer: Learning to Optimize Multi-Group Multicast Beamforming Under Nonconvex QoS Constraints,” <em>IEEE Transactions on Communications</em>, vol. 72, no. 9, pp. 5581-5594, Sep. 2024. <a href="https://ieeexplore.ieee.org/document/10494519" target="_blank">[link]</a>
   </div>
-    
-[J17] Yang Li, Fan Xu, Tsung-Hui Chang, and Ya-Feng Liu, “Wireless Resource Optimization under Complex Constraints: Methods and Insights from an AI Perspective,” Mobile Communications, vol. 48, no. 7, pp. 73-79, 2024.
+
+    <div class="paper-entry">
+[J17] <strong>Yang Li</strong>, Fan Xu, Tsung-Hui Chang, and Ya-Feng Liu, “Wireless Resource Optimization under Complex Constraints: Methods and Insights from an AI Perspective,” <em>Mobile Communications</em>, vol. 48, no. 7, pp. 73-79, 2024.
+ </div> <a href="https://d.wanfangdata.com.cn/periodical/ydtx202407011" target="_blank">[link]</a>
+
 [J16] Yunqi Wang, Yang Li*, Qingjiang Shi, and Yik-Chung Wu, “ENGNN: A General Edge-Update Empowered GNN Architecture for Radio Resource Management in Wireless Networks,” IEEE Transactions on Wireless Communications, vol. 23, no. 6, pp. 5330-5344, Jun. 2024.
 [J15] Hao Zhang, Qingfeng Lin, Yang Li*, Lei Cheng, and Yik-Chung Wu, “Activity Detection for Massive Connectivity in Cell-Free Networks with Unknown Large-scale Fading, Channel Statistics, Noise Variance, and Active Probability: A Bayesian Approach,” IEEE Transactions on Signal Processing, vol. 72, pp. 942-957, 2024.
 [J14] Guangxu Zhu, Yang Li, Yi Chen, Shuqi Chai, Qingjiang Shi, and Zhi-Quan Luo, “The Global Competitive Situation of 6G Key Technology R&D and China's Countermeasures,” Strategic Study of Chinese Academy of Engineering, vol. 25, no. 6, pp. 9-17, 2023.
