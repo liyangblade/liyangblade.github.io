@@ -170,7 +170,7 @@ Selected Conference Papers
  </div>
 
 <div class="paper-entry">  
-[J10] Qingfeng Lin, <strong>Yang Li*</strong>, and Yik-Chung Wu, “Sparsity Constrained Joint Activity and Data Detection for Massive Access: A Difference-of-Norms Penalty Framework,” <em>IEEE Transactions on Wireless Communications</em>, vol. 22, no. 3, pp. 1480-1494, Mar. 2023. <a href="https://ieeexplore.ieee.org/document/9893021" target="_blank">[link]</a>
+[C10] Qingfeng Lin, <strong>Yang Li</strong>, Yik-Chung Wu, and Rui Zhang, “Intelligent Reflecting Surface Aided Activity Detection: A Covariance-Based Learning Approach,” in <em>Proc. IEEE Global Communications Conference (GLOBECOM)</em>, Kuala Lumpur, Malaysia, 2023. <a href="https://ieeexplore.ieee.org/document/10437335" target="_blank">[link]</a>
  </div>
 
 <div class="paper-entry"> 
