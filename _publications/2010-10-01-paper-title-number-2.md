@@ -158,7 +158,7 @@ Selected Conference Papers
  </div>
 
   <div class="paper-entry">      
-[J13] Mian Li, <strong>Yang Li</strong>, Tsung-Hui Chang, and Qingjiang Shi, “Communication-Efficient Distributed Precoding for Massive MIMO,” <em>Journal on Communications</em>, vol. 44, no. 8, pp. 37-48, Aug. 2023. <a href="https://www.joconline.com.cn/zh/article/doi/10.11959/j.issn.1000-436x.2023147/" target="_blank">[link]</a>
+C13] Zhenrong Liu, <strong>Yang Li</strong>, Yi Gong, and Yik-Chung Wu, “Learning a Low-Rank Feature Representation: Achieving Better Trade-Off Between Stability and Plasticity in Continual Learning,” in <em>Proc. IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP)</em>, Seoul, Korea, 2024. <a href="https://ieeexplore.ieee.org/document/10446458" target="_blank">[link]</a>
  </div>
 
   <div class="paper-entry">    
