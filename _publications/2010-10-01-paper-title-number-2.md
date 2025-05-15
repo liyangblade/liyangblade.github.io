@@ -178,7 +178,7 @@ Selected Conference Papers
  </div>
   
  <div class="paper-entry">  
-[J8] Zongze Li, Shuai Wang, Qingfeng Lin, <strong>Yang Li</strong>, Miaowen Wen, Yik-Chung Wu, and H. Vincent Poor, “Phase Shift Design in RIS Empowered Wireless Networks: From Optimization to AI-Based Methods,” <em>Network</em>, vol. 2, no. 3, pp. 398-418, Jul. 2022. <a href="https://www.mdpi.com/2673-8732/2/3/25" target="_blank">[link]</a>
+[C8] Qingfeng Lin, <strong>Yang Li</strong>, Tsung-Hui Chang, and Yik-Chung Wu, “Communication-Efficient Joint Signal Compression and Activity Detection in Cell-Free Massive MIMO,” in <em>Proc. IEEE International Conference on Communications (ICC)</em>, Rome, Italy, 2023. <a href="https://ieeexplore.ieee.org/document/10279509" target="_blank">[link]</a>
  </div>
 
  <div class="paper-entry">   
