@@ -154,7 +154,7 @@ Selected Conference Papers
  </div> 
 
    <div class="paper-entry">  
-[J14] Guangxu Zhu, <strong>Yang Li</strong>, Yi Chen, Shuqi Chai, Qingjiang Shi, and Zhi-Quan Luo, “The Global Competitive Situation of 6G Key Technology R&D and China's Countermeasures,” <em>Strategic Study of Chinese Academy of Engineering</em>, vol. 25, no. 6, pp. 9-17, 2023. <a href="https://www.engineering.org.cn/sscae/CN/10.15302/J-SSCAE-2023.06.002" target="_blank">[link]</a>
+[C14] Zhen Liu, Shouyi Yang, <strong>Yang Li</strong>, and Yanhui Lu, “End-to-end Beamforming Design Based on Pilot in Multiuser Multi-Input-Single-Output System,” in Proc. International Conference on Neural Networks, Information and Communication (NNICE), Guangzhou, China, 2024. <a href="https://ieeexplore.ieee.org/document/10499179" target="_blank">[link]</a>
  </div>
 
   <div class="paper-entry">      
