@@ -166,7 +166,7 @@ Selected Conference Papers
  </div>
 
   <div class="paper-entry">    
-[J11] <strong>Yang Li*</strong>, Qingfeng Lin, Ya-Feng Liu, Bo Ai, and Yik-Chung Wu, “Asynchronous Activity Detection for Cell-Free Massive MIMO: From Centralized to Distributed Algorithms,” <em>IEEE Transactions on Wireless Communications</em>, vol. 22, no. 4, pp. 2477-2492, Apr. 2023. <a href="https://ieeexplore.ieee.org/document/9916169" target="_blank">[link]</a>
+[C11] <strong>Yang Li</strong> and Ya-Feng Liu, “Learning to Optimize QoS-Constrained Multicast Beamforming with HPE Transformer,” in <em>Proc. IEEE Global Communications Conference (GLOBECOM)</em>, Kuala Lumpur, Malaysia, 2023. <a href="https://ieeexplore.ieee.org/document/10437613" target="_blank">[link]</a>
  </div>
 
 <div class="paper-entry">  
