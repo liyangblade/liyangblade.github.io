@@ -182,7 +182,7 @@ Selected Conference Papers
  </div>
 
  <div class="paper-entry">   
-[J7] <strong>Yang Li</strong>, Zhitang Chen, Guochen Liu, Yik-Chung Wu, and Kai-Kit Wong, “Learning to Construct Nested Polar Codes: An Attention-Based Set-to-Element Model,” <em>IEEE Communications Letters</em>, vol. 25, no. 12, pp. 3898-3902, Dec. 2021. <a href="https://ieeexplore.ieee.org/document/9541201" target="_blank">[link]</a>
+[C7] Yunqi Wang, <strong>Yang Li</strong>, Qingjiang Shi, and Yik-Chung Wu, “Learning Cooperative Beamforming with Edge-Update Empowered Graph Neural Networks,” in <em>Proc. IEEE International Conference on Communications (ICC)</em>, Rome, Italy, 2023. <a href="https://ieeexplore.ieee.org/document/10278864" target="_blank">[link]</a>
  </div>
 
  <div class="paper-entry">   
