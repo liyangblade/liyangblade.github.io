@@ -174,7 +174,7 @@ Selected Conference Papers
  </div>
 
 <div class="paper-entry"> 
-  [J9] <strong>Yang Li</strong>, Shutao Zhang, Xiaohui Ren, Jianhang Zhu, Jiajie Huang, Pengcheng He, Kaiming Shen, Zhiqiang Yao, Jie Gong, Tsung-Hui Chang, Qingjiang Shi, and Zhi-Quan Luo, “Real-World Wireless Network Modeling and Optimization: From Model/Data-Driven Perspective,” <em>Chinese Journal of Electronics</em>, vol. 31, no. 6, pp. 991-1012, Nov. 2022. <a href="https://cje.ejournal.org.cn/article/doi/10.1049/cje.2022.00.191" target="_blank">[link]</a>
+ [C9] <strong>Yang Li</strong>, Qingfeng Lin, Ya-Feng Liu, Bo Ai, and Yik-Chung Wu, “Distributed Algorithms for Asynchronous Activity Detection in Cell-Free Massive MIMO,” in <em>Proc. IEEE International Conference on Communications (ICC)</em>, Rome, Italy, 2023. <a href="https://ieeexplore.ieee.org/document/10278871" target="_blank">[link]</a>
  </div>
   
  <div class="paper-entry">  
