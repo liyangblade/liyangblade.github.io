@@ -146,7 +146,10 @@ Selected Conference Papers
 -----
 <p align="justify">
 <div class="paper-entry">
-[J16] Yunqi Wang, <strong>Yang Li*</strong>, Qingjiang Shi, and Yik-Chung Wu, “ENGNN: A General Edge-Update Empowered GNN Architecture for Radio Resource Management in Wireless Networks,” <em>IEEE Transactions on Wireless Communications</em>, vol. 23, no. 6, pp. 5330-5344, Jun. 2024. <a href="https://ieeexplore.ieee.org/document/10296858" target="_blank">[link]</a>
+[C16] Yichen Jin, Qingfeng Lin, <strong>Yang Li</strong>, and Yik-Chung Wu, “Handling Distance Constraint in Movable Antenna Aided System: A General Optimization Framework,” in <em>Proc. International Workshop on Signal Processing Advances in Wireless Communications (SPAWC)</em>, Lucca, Italy, 2024. <a href="https://ieeexplore.ieee.org/document/10694310" target="_blank">[link]</a>
+</div>
+
+  [J16] Yunqi Wang, <strong>Yang Li*</strong>, Qingjiang Shi, and Yik-Chung Wu, “ENGNN: A General Edge-Update Empowered GNN Architecture for Radio Resource Management in Wireless Networks,” <em>IEEE Transactions on Wireless Communications</em>, vol. 23, no. 6, pp. 5330-5344, Jun. 2024. <a href="https://ieeexplore.ieee.org/document/10296858" target="_blank">[link]</a>
  </div> 
 
  <div class="paper-entry"> 
