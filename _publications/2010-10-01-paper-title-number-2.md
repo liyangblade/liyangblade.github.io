@@ -157,8 +157,8 @@ Selected Conference Papers
 [C14] Zhen Liu, Shouyi Yang, <strong>Yang Li</strong>, and Yanhui Lu, “End-to-end Beamforming Design Based on Pilot in Multiuser Multi-Input-Single-Output System,” in Proc. International Conference on Neural Networks, Information and Communication (NNICE), Guangzhou, China, 2024. <a href="https://ieeexplore.ieee.org/document/10499179" target="_blank">[link]</a>
  </div>
 
-  <div class="paper-entry">      
-C13] Zhenrong Liu, <strong>Yang Li</strong>, Yi Gong, and Yik-Chung Wu, “Learning a Low-Rank Feature Representation: Achieving Better Trade-Off Between Stability and Plasticity in Continual Learning,” in <em>Proc. IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP)</em>, Seoul, Korea, 2024. <a href="https://ieeexplore.ieee.org/document/10446458" target="_blank">[link]</a>
+<div class="paper-entry">      
+[C13] Zhenrong Liu, <strong>Yang Li</strong>, Yi Gong, and Yik-Chung Wu, “Learning a Low-Rank Feature Representation: Achieving Better Trade-Off Between Stability and Plasticity in Continual Learning,” in <em>Proc. IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP)</em>, Seoul, Korea, 2024. <a href="https://ieeexplore.ieee.org/document/10446458" target="_blank">[link]</a>
  </div>
 
   <div class="paper-entry">    
