@@ -202,7 +202,7 @@ Selected Conference Papers
  </div>
 
  <div class="paper-entry">  
-[J2] <strong>Yang Li</strong>, Yafei Tian, and Chenyang Yang, “Beamforming Design with Proactive Interference Cancelation in MISO Interference Channels,” <em>EURASIP Journal on Advances in Signal Processing</em>, vol. 67, pp. 1–11, Aug. 2015. <a href="https://asp-eurasipjournals.springeropen.com/articles/10.1186/s13634-015-0253-7" target="_blank">[link]</a>
+[C2] Yunlu Wang, Yafei Tian, <strong>Yang Li</strong>, and Chenyang Yang, “Coordinated Precoding and Proactive Interference Cancellation in Mixed Interference Scenarios,” in <em>Proc. IEEE Wireless Communications and Networking Conference (WCNC)</em>, Istanbul, Turkey, 2014. <a href="https://ieeexplore.ieee.org/document/6952088" target="_blank">[link]</a>
  </div>
 
  <div class="paper-entry">     
