@@ -190,7 +190,7 @@ Selected Conference Papers
  </div>
 
  <div class="paper-entry"> 
-[J5] <strong>Yang Li</strong>, Minghua Xia, and Yik-Chung Wu, “Energy-Efficient Precoding for Non-Orthogonal Multicast and Unicast Transmission via First-Order Algorithm,” <em>IEEE Transactions on Wireless Communications</em>, vol. 18, no. 9, pp. 4590-4604, Sep. 2019. <a href="https://ieeexplore.ieee.org/document/8764614" target="_blank">[link]</a>
+[C5] Jianhang Zhu, Jiajie Huang, Jie Gong, Zhen Liu, Zixu Wang, <strong>Yang Li</strong>, and Yibin Kang, “Downlink IP Throughput Modeling and Prediction with Deep Neural Networks,” in <em>Proc. International Symposium on Wireless Communication Systems (ISWCS)</em>, Hangzhou, China, 2022. <a href="https://ieeexplore.ieee.org/document/9940405" target="_blank">[link]</a>
  </div>
 
 <div class="paper-entry"> 
