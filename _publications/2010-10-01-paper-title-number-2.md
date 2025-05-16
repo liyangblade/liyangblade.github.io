@@ -206,7 +206,7 @@ Selected Conference Papers
  </div>
 
  <div class="paper-entry">     
-[J1]  <strong>Yang Li</strong>, Yafei Tian, and Chenyang Yang, “Energy-Efficient Coordinated Beamforming Under Minimal Data Rate Constraint of Each User,” <em>IEEE Transactions on Vehicular Technology</em>, vol. 64, no. 6, pp. 2387-2397, Jun. 2015. <a href="https://ieeexplore.ieee.org/document/6866226" target="_blank">[link]</a>
+[C1] <strong>Yang Li</strong>, Yafei Tian, and Chenyang Yang, “Energy-Efficient Coordinated Beamforming with Individual Data Rate Constraints,” in <em>Proc. IEEE International Symposium on Personal, Indoor and Mobile Radio Communications (PIMRC)</em>, London, UK, 2013. <a href="https://ieeexplore.ieee.org/document/6666291" target="_blank">[link]</a>
  </div>
 
 </p>
