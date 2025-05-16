@@ -198,7 +198,7 @@ Selected Conference Papers
  </div>
 
  <div class="paper-entry">  
-[J3] <strong>Yang Li</strong>, Minghua Xia, and Yik-Chung Wu, “First-Order Algorithm for Content-Centric Sparse Multicast Beamforming in Large-Scale C-RAN,” <em>IEEE Transactions on Wireless Communications</em>, vol. 17, no. 9, pp. 5959-5974, Sep. 2018. <a href="https://ieeexplore.ieee.org/document/8410057" target="_blank">[link]</a>
+[C3] <strong>Yang Li</strong>, Shuai Wang, Edward S. Hui, Di Cui, Hing-Chiu Chang, and Yik-Chung Wu, “Accelerated Magnetic Resonance Fingerprinting Reconstruction Using Majorization-Minimization,” in <em>Proc. The 25th Annual Meeting and Exhibition of the International Society for Magnetic Resonance in Medicine (ISMRM)</em>, Honolulu, USA, 2017. <a href="https://cds.ismrm.org/protected/17MProceedings/PDFfiles/1356.html" target="_blank">[link]</a>
  </div>
 
  <div class="paper-entry">  
