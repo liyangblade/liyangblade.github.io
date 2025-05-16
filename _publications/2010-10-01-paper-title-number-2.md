@@ -185,8 +185,8 @@ Selected Conference Papers
 [C7] Yunqi Wang, <strong>Yang Li</strong>, Qingjiang Shi, and Yik-Chung Wu, “Learning Cooperative Beamforming with Edge-Update Empowered Graph Neural Networks,” in <em>Proc. IEEE International Conference on Communications (ICC)</em>, Rome, Italy, 2023. <a href="https://ieeexplore.ieee.org/document/10278864" target="_blank">[link]</a>
  </div>
 
- <div class="paper-entry">   
-[J6] <strong>Yang Li</strong>, Minghua Xia, and Yik-Chung Wu, “Cache Allocation at Base Stations with Multi-Cluster Multicast Backhaul via Accelerated First-Order Algorithm,” <em>IEEE Transactions on Wireless Communications</em>, vol. 19, no. 5, pp. 2920-2933, May 2020. <a href="https://ieeexplore.ieee.org/document/8976409" target="_blank">[link]</a>
+<div class="paper-entry">   
+[C6] Ye Xue, An Liu, <strong>Yang Li</strong>, Qingjiang Shi, and Vincent Lau, “Joint Activity Detection and Channel Estimation in Massive Machine-Type Communications with Low-Resolution ADC,” in <em>Proc. IEEE International Conference on Communications (ICC)</em>, Rome, Italy, 2023. 
  </div>
 
  <div class="paper-entry"> 
