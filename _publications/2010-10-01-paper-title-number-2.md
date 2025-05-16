@@ -194,7 +194,7 @@ Selected Conference Papers
  </div>
 
 <div class="paper-entry"> 
-[J4] <strong>Yang Li</strong>, Minghua Xia, and Yik-Chung Wu, “Activity Detection for Massive Connectivity under Frequency Offsets via First-Order Algorithms,” <em>IEEE Transactions on Wireless Communications</em>, vol. 18, no. 3, pp. 1988-2002, Mar. 2019. <a href="https://ieeexplore.ieee.org/document/8657965" target="_blank">[link]</a>
+[C4] Qingfeng Lin, <strong>Yang Li</strong>, and Yik-Chung Wu, “Penalty-Based Algorithm for Joint Activity and Data Detection in Grant-Free Massive Access,” in <em>Proc. IEEE/CIC International Conference on Communications in China (ICCC)</em>, Foshan, China, 2022. <a href="https://ieeexplore.ieee.org/document/9880701" target="_blank">[link]</a>
  </div>
 
  <div class="paper-entry">  
