@@ -20,14 +20,14 @@ Current Master Students
 Current Visiting Students
 -----
 <ul style="text-align: justify">
-<li>Yikun Wang (Visiting Mphil student from The University of Hong Kong, Dec. 2024 - Present)</li>
-<li>Jingreng Lei (Visiting Mphil student from The University of Hong Kong, May 2024 -Present)</li>
+<li>Yikun Wang (Visiting MPhil student from The University of Hong Kong, Dec. 2024 - Present)</li>
+<li>Jingreng Lei (Visiting MPhil student from The University of Hong Kong, May 2024 -Present)</li>
 </ul>
 
 Former Visiting Students
 -----
 <ul style="text-align: justify">
-<li>Zeyi Ren (Visiting Mphil student from The University of Hong Kong, Aug. 2024 - Nov. 2024)</li>
+<li>Zeyi Ren (Visiting MPhil student from The University of Hong Kong, Aug. 2024 - Nov. 2024)</li>
 <li>Zhenrong Liu (Visiting Ph.D. student from The University of Hong Kong, Jan. 2024 - Jul. 2024)</li>
 <li>Zhuoning Lu (Visiting Master student from Nanchang Univeristy, Jan. 2024 - Jun. 2024)</li>
 <li>Zhen Liu (Visiting Master student from Zhengzhou Univeristy, Jun. 2022 - Jun. 2023)</li>
