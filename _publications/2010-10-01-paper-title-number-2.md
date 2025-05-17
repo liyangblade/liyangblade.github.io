@@ -209,6 +209,10 @@ Selected Conference Papers
 [C1] <strong>Yang Li</strong>, Yafei Tian, and Chenyang Yang, “Energy-Efficient Coordinated Beamforming with Individual Data Rate Constraints,” in <em>Proc. IEEE International Symposium on Personal, Indoor and Mobile Radio Communications (PIMRC)</em>, London, UK, 2013. <a href="https://ieeexplore.ieee.org/document/6666291" target="_blank">[link]</a>
  </div>
 
+Ph.D. Thesis
+-----
+First-Order Algorithms for Nonsmooth Nonconvex Optimization in Large-Scale Wireless Networks (The University of Hong Kong, 2019) <a href="https://hub.hku.hk/handle/10722/279341" target="_blank">[link]</a>
+
 </p>
 
 Selected Patents
