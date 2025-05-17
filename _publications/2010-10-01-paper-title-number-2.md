@@ -273,3 +273,10 @@ Selected Patents
 </div> 
 </p>
 
+Selected Software copyrights
+-----
+<p align="justify">
+<div class="paper-entry">
+[S1] 彭拯、宣浩、姚志强、<strong>李洋</strong>、沈超，“波束空间栅格构建系统V1.0”，登记号：2024SR0530992，登记日期：2024年4月19日
+</div> 
+</p>
