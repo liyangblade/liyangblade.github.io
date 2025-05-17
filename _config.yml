@@ -275,12 +275,12 @@ defaults:
       author_profile: true
       share: true
       comment: true
-  # _projets
+  # _grants
   - scope:
       path: ""
       type: grants
     values:
-      layout: grant
+      layout: single
       author_profile: true
       share: true
 
