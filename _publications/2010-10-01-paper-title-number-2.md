@@ -186,7 +186,7 @@ Selected Conference Papers
  </div>
 
 <div class="paper-entry">   
-[C6] Ye Xue, An Liu, <strong>Yang Li</strong>, Qingjiang Shi, and Vincent Lau, “Joint Activity Detection and Channel Estimation in Massive Machine-Type Communications with Low-Resolution ADC,” in <em>Proc. IEEE International Conference on Communications (ICC)</em>, Rome, Italy, 2023. 
+[C6] Ye Xue, An Liu, <strong>Yang Li</strong>, Qingjiang Shi, and Vincent Lau, “Joint Activity Detection and Channel Estimation in Massive Machine-Type Communications with Low-Resolution ADC,” in <em>Proc. IEEE International Conference on Communications (ICC)</em>, Rome, Italy, 2023. <a href="https://ieeexplore.ieee.org/document/10279376" target="_blank">[link]</a>
  </div>
 
  <div class="paper-entry"> 
