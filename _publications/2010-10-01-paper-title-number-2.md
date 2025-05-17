@@ -212,7 +212,7 @@ Selected Conference Papers
 
 Ph.D. Thesis
 -----
- <div class="paper-entry">   
+<p align="justify">   
 First-Order Algorithms for Nonsmooth Nonconvex Optimization in Large-Scale Wireless Networks (<em>The University of Hong Kong</em>, 2019) <a href="https://hub.hku.hk/handle/10722/279341" target="_blank">[link]</a>
  </p>
 
