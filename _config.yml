@@ -223,7 +223,7 @@ collections:
   portfolio:
     output: true
     permalink: /:collection/:path/
-  talks:
+  grants:
     output: true
     permalink: /:collection/:path/
 
@@ -278,9 +278,9 @@ defaults:
   # _projets
   - scope:
       path: ""
-      type: talks
+      type: grants
     values:
-      layout: talk
+      layout: grant
       author_profile: true
       share: true
 
