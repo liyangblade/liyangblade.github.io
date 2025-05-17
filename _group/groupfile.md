@@ -7,5 +7,6 @@ redirect_from:
   - /group.html
 ---
 
-Principal Investigator
+
+Current Ph.D. Students
 -----
