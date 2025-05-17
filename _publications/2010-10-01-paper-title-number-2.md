@@ -277,7 +277,7 @@ Selected Patents
 </div> 
 </p>
 
-Selected Software copyrights
+Selected Software Copyrights
 -----
 <p align="justify">
 <div class="paper-entry">
