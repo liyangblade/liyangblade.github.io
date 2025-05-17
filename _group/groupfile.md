@@ -26,3 +26,12 @@ Current Visiting Students
 
 Former Visiting Students
 -----
+<ul style="text-align: justify">
+<li>Qingfeng Lin (Visiting Ph.D. student from The University of Hong Kong))</li>
+<li>Zhenrong Liu (Visiting Ph.D. student from The University of Hong Kong))</li>
+<li>Yunqi Wang (Visiting Ph.D. student from The University of Hong Kong))</li>
+<li>Zhen Liu (Visiting Master student from Zhengzhou Univeristy))</li>
+<li>Zixu Wang (Visiting Master student from Zhengzhou Univeristy))</li>
+<li>Zhuoning Lu (Visiting Master student from Nanchang Univeristy))</li>
+  
+</ul>
