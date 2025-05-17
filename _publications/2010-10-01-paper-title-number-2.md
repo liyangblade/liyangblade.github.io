@@ -43,6 +43,18 @@ Working Papers
     [J24] Ziyue Wang, <strong>Yang Li</strong>, Ya-Feng Liu, and Junjie Ma, “Covariance-Based Device Activity Detection with Massive MIMO for Near-Field Correlated Channels,” <em>IEEE Transactions on Wireless Communications</em>, major revision, Feb. 2025.
   </div>
 
+    <div class="paper-entry">
+    [C19] Ziyue Wang, <strong>Yang Li</strong>, Ya-Feng Liu, and Junjie Ma, “Covariance-Based Device Activity Detection for Near-Field Communications,” submitted to <em>Proc. IEEE/CIC International Conference on Communications in China (ICCC)</em>, Shanghai, China, 2025.
+  </div>
+
+    <div class="paper-entry">
+    [C18] Jingreng Lei, <strong>Yang Li</strong>, Zeyi Ren, Qingfeng Lin, Ziyue Wang, Ya-Feng Liu, and Yik-Chung Wu, “Distributed Activity Detection for Cell-Free Hybrid Near-Far Field Communications,” submitted to <em>Proc. IEEE Global Communications Conference (GLOBECOM)</em>, Taipei, Taiwan, 2025.
+  </div>
+
+    <div class="paper-entry">
+    [C17] 	Yikun Wang, <strong>Yang Li</strong>, Zeyi Ren, Yik-Chung Wu, and Rui Zhang, “Learning to Optimize Discrete Antenna Positioning for Movable Antenna-Aided Systems,” submitted to <em>Proc. IEEE Global Communications Conference (GLOBECOM)</em>, Taipei, Taiwan, 2025.
+  </div>
+
 </p>
 
 Selected Journal Papers (* denotes the corresponding author)
