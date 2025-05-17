@@ -20,6 +20,9 @@ Current Master Students
 Current Visiting Students
 -----
 <ul style="text-align: justify">
-<li>Yikun Wang (Mphil student from The University of Hong Kong))</li>
-<li>Jingreng Lei (Mphil student from The University of Hong Kong))</li>
+<li>Yikun Wang (Visiting Mphil student from The University of Hong Kong))</li>
+<li>Jingreng Lei (Visiting Mphil student from The University of Hong Kong))</li>
 </ul>
+
+Former Visiting Students
+-----
