@@ -11,7 +11,7 @@ redirect_from:
 Current Ph.D. Students
 -----
 <ul style="text-align: justify">
-<li>Wentao Zhang (B.E. from University of Electronic Science and Technology of China, M.Sc. from National University of Singapore))</li>
+<li>Wentao Zhang (B.E. from University of Electronic Science and Technology of China, M.Sc. from National University of Singapore)</li>
 </ul>
 
 Current Master Students
