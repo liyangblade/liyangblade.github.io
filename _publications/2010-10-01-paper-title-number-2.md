@@ -53,7 +53,7 @@ Selected Journal Papers (* denotes the corresponding author)
 -----
 <p align="justify">
   <div class="paper-entry">
-    [J24] Zeyi Ren, Qingfeng Lin, Jingreng Lei, <strong>Yang Li*</strong>, and Yik-Chung Wu, "Mixture of Experts-augmented Deep Unfolding for Activity Detection in IRS-aided Systems," <em>IEEE Wireless Communications Letters</em>, early access, Jun. 2025. <a href="https://ieeexplore.ieee.org/document/10970427" target="_blank">[link]</a>
+    [J24] Zeyi Ren, Qingfeng Lin, Jingreng Lei, <strong>Yang Li*</strong>, and Yik-Chung Wu, "Mixture of Experts-augmented Deep Unfolding for Activity Detection in IRS-aided Systems," <em>IEEE Wireless Communications Letters</em>, early access, Jun. 2025. <a href="https://ieeexplore.ieee.org/document/11049000" target="_blank">[link]</a>
   </div>
   
   <div class="paper-entry">
