@@ -23,36 +23,28 @@ Working Papers
    [J29] Yichen Jin, Qingfeng Lin, <strong>Yang Li</strong>, Hancheng Zhu, Bingyang Cheng, Yik-Chung Wu, and Rui Zhang, "A General Optimization Framework for Tackling Distance Constraints in Movable Antenna-Aided Systems," submitted to <em>IEEE Transactions on Wireless Communications</em>, Mar. 2025.
   </div>
 
-  <div class="paper-entry">
-    [J28] Zeyi Ren, Qingfeng Lin, Jingreng Lei, <strong>Yang Li</strong>, and Yik-Chung Wu, "Mixture of Experts-augmented Deep Unfolding for Activity Detection in IRS-aided Systems," submitted to <em>IEEE Wireless Communications Letters</em>, May 2025.
-  </div>
-
     <div class="paper-entry">
-   [J27] Yang Leng, Qingfeng Lin, Long-Yin Yung, Jingreng Lei, <strong>Yang Li</strong>, and Yik-Chung Wu, “Unveiling the Power of Complex-Valued Transformers in Wireless Communications,” <em>IEEE Transactions on Communications</em>, major revision, May 2025.
+   [J28] Yang Leng, Qingfeng Lin, Long-Yin Yung, Jingreng Lei, <strong>Yang Li</strong>, and Yik-Chung Wu, “Unveiling the Power of Complex-Valued Transformers in Wireless Communications,” <em>IEEE Transactions on Communications</em>, major revision, May 2025.
   </div>
 
   <div class="paper-entry">
-    [J26] Hao Zhang, Qingfeng Lin, <strong>Yang Li</strong>, and Yik-Chung Wu, “AMP-based Joint Activity Detection and Channel Estimation in IRS-aided Grant-free Access with Accurate Channel and Sparsity Modeling,” <em>IEEE Transactions on Communications</em>, major revision, Apr. 2025.
+    [J27] Hao Zhang, Qingfeng Lin, <strong>Yang Li</strong>, and Yik-Chung Wu, “AMP-based Joint Activity Detection and Channel Estimation in IRS-aided Grant-free Access with Accurate Channel and Sparsity Modeling,” <em>IEEE Transactions on Communications</em>, major revision, Apr. 2025.
   </div>
 
     <div class="paper-entry">
-    [J25] Hao Zhang, <strong>Yang Li</strong>, Qingfeng Lin, Yik-Chung Wu, and H. Vincent Poor, “Harnessing Common Sparsity for Enhancing AMP-based Activity Detection and Channel Estimation,” <em>IEEE Transactions on Signal Processing</em>, major revision, Mar. 2025.
+    [J26] Hao Zhang, <strong>Yang Li</strong>, Qingfeng Lin, Yik-Chung Wu, and H. Vincent Poor, “Harnessing Common Sparsity for Enhancing AMP-based Activity Detection and Channel Estimation,” <em>IEEE Transactions on Signal Processing</em>, major revision, Mar. 2025.
   </div>
 
   <div class="paper-entry">
-    [J24] Ziyue Wang, <strong>Yang Li</strong>, Ya-Feng Liu, and Junjie Ma, “Covariance-Based Device Activity Detection with Massive MIMO for Near-Field Correlated Channels,” <em>IEEE Transactions on Wireless Communications</em>, major revision, May 2025.
+    [J25] Ziyue Wang, <strong>Yang Li</strong>, Ya-Feng Liu, and Junjie Ma, “Covariance-Based Device Activity Detection with Massive MIMO for Near-Field Correlated Channels,” <em>IEEE Transactions on Wireless Communications</em>, major revision, May 2025.
   </div>
 
     <div class="paper-entry">
-    [C19] Ziyue Wang, <strong>Yang Li</strong>, Ya-Feng Liu, and Junjie Ma, “Covariance-Based Device Activity Detection for Near-Field Communications,” submitted to <em>Proc. IEEE/CIC International Conference on Communications in China (ICCC)</em>, Shanghai, China, 2025.
+    [C19] Jingreng Lei, <strong>Yang Li</strong>, Zeyi Ren, Qingfeng Lin, Ziyue Wang, Ya-Feng Liu, and Yik-Chung Wu, “Distributed Activity Detection for Cell-Free Hybrid Near-Far Field Communications,” submitted to <em>Proc. IEEE Global Communications Conference (GLOBECOM)</em>, Taipei, Taiwan, 2025.
   </div>
 
     <div class="paper-entry">
-    [C18] Jingreng Lei, <strong>Yang Li</strong>, Zeyi Ren, Qingfeng Lin, Ziyue Wang, Ya-Feng Liu, and Yik-Chung Wu, “Distributed Activity Detection for Cell-Free Hybrid Near-Far Field Communications,” submitted to <em>Proc. IEEE Global Communications Conference (GLOBECOM)</em>, Taipei, Taiwan, 2025.
-  </div>
-
-    <div class="paper-entry">
-    [C17] 	Yikun Wang, <strong>Yang Li</strong>, Zeyi Ren, Yik-Chung Wu, and Rui Zhang, “Learning to Optimize Discrete Antenna Positioning for Movable Antenna-Aided Systems,” submitted to <em>Proc. IEEE Global Communications Conference (GLOBECOM)</em>, Taipei, Taiwan, 2025.
+    [C18] 	Yikun Wang, <strong>Yang Li</strong>, Zeyi Ren, Yik-Chung Wu, and Rui Zhang, “Learning to Optimize Discrete Antenna Positioning for Movable Antenna-Aided Systems,” submitted to <em>Proc. IEEE Global Communications Conference (GLOBECOM)</em>, Taipei, Taiwan, 2025.
   </div>
 
 </p>
@@ -60,6 +52,10 @@ Working Papers
 Selected Journal Papers (* denotes the corresponding author)
 -----
 <p align="justify">
+  <div class="paper-entry">
+    [J24] Zeyi Ren, Qingfeng Lin, Jingreng Lei, <strong>Yang Li*</strong>, and Yik-Chung Wu, "Mixture of Experts-augmented Deep Unfolding for Activity Detection in IRS-aided Systems," <em>IEEE Wireless Communications Letters</em>, early access, Jun. 2025. <a href="[https://ieeexplore.ieee.org/document/10970427]" target="_blank">[link]</a>
+  </div>
+  
   <div class="paper-entry">
    [J23] Zhenrong Liu, <strong>Yang Li*</strong>, Yik-Chung Wu, and Yi Gong, “Learning to Optimize Resource Allocation in Dynamic Wireless Environments: Embracing the New While Engaging the Old,” <em>IEEE Transactions on Wireless Communications</em>, early access, Apr. 2025.  <a href="https://ieeexplore.ieee.org/document/10970427" target="_blank">[link]</a>
   </div>
@@ -157,6 +153,10 @@ Selected Journal Papers (* denotes the corresponding author)
 Selected Conference Papers
 -----
 <p align="justify">
+<div class="paper-entry">
+[C17] Ziyue Wang, <strong>Yang Li</strong>, Ya-Feng Liu, and Junjie Ma, “Covariance-Based Device Activity Detection for Near-Field Communications,” in <em>Proc. IEEE/CIC International Conference on Communications in China (ICCC)</em>, Shanghai, China, 2025.
+  </div>
+  
 <div class="paper-entry">
 [C16] Yichen Jin, Qingfeng Lin, <strong>Yang Li</strong>, and Yik-Chung Wu, “Handling Distance Constraint in Movable Antenna Aided System: A General Optimization Framework,” in <em>Proc. International Workshop on Signal Processing Advances in Wireless Communications (SPAWC)</em>, Lucca, Italy, 2024. <a href="https://ieeexplore.ieee.org/document/10694310" target="_blank">[link]</a>
 </div>
