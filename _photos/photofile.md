@@ -8,6 +8,6 @@ redirect_from:
 ---
 
 
-<img src="../images/2025_07_08.jpg" alt="描述文字" width="300" height="200">  
+![2025_07_08](../images/2025_07_08.jpg "Group Lunch")    
 Lunch with group members in Jul. 2025  
 Yikun Wang, Kaiyi Peng, Wentao Zhang, Yang Li
