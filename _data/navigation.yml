@@ -17,6 +17,9 @@ main:
   - title: "Group"
     url: /group/
 
+  - title: "Photos"
+    url: /photos/
+
   #- title: "Talks"
   #  url: /talks/    
 
