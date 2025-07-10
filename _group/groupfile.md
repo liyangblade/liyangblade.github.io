@@ -41,4 +41,4 @@ Former Visiting Students
 
 Photos
 -----
-![2025_07_08](./images/2025_07_08.jpg "Group Lunch")
+![2025_07_08](../images/2025_07_08.jpg "Group Lunch")
