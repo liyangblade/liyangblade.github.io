@@ -229,7 +229,10 @@ collections:
   group:
     output: true
     permalink: /:collection/:path/
-
+  photos:
+    output: true
+    permalink: /:collection/:path/
+    
 # These settings control how pages and collections are included in the site
 defaults:
   # _posts
@@ -289,6 +292,14 @@ defaults:
   - scope:
       path: ""
       type: group
+    values:
+      layout: single
+      author_profile: true
+      share: true
+  # _photos
+  - scope:
+      path: ""
+      type: photos
     values:
       layout: single
       author_profile: true
