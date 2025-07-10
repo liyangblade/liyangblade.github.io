@@ -31,12 +31,8 @@ Working Papers
     [J27] Hao Zhang, Qingfeng Lin, <strong>Yang Li</strong>, and Yik-Chung Wu, “AMP-based Joint Activity Detection and Channel Estimation in IRS-aided Grant-free Access with Accurate Channel and Sparsity Modeling,” <em>IEEE Transactions on Communications</em>, major revision, Apr. 2025.
   </div>
 
-    <div class="paper-entry">
-    [J26] Hao Zhang, <strong>Yang Li</strong>, Qingfeng Lin, Yik-Chung Wu, and H. Vincent Poor, “Harnessing Common Sparsity for Enhancing AMP-based Activity Detection and Channel Estimation,” <em>IEEE Transactions on Signal Processing</em>, major revision, Mar. 2025.
-  </div>
-
   <div class="paper-entry">
-    [J25] Ziyue Wang, <strong>Yang Li</strong>, Ya-Feng Liu, and Junjie Ma, “Covariance-Based Device Activity Detection with Massive MIMO for Near-Field Correlated Channels,” <em>IEEE Transactions on Wireless Communications</em>, major revision, May 2025.
+    [J26] Ziyue Wang, <strong>Yang Li</strong>, Ya-Feng Liu, and Junjie Ma, “Covariance-Based Device Activity Detection with Massive MIMO for Near-Field Correlated Channels,” <em>IEEE Transactions on Wireless Communications</em>, major revision, May 2025.
   </div>
 
     <div class="paper-entry">
@@ -52,6 +48,11 @@ Working Papers
 Selected Journal Papers (* denotes the corresponding author)
 -----
 <p align="justify">
+
+    <div class="paper-entry">
+    [J25] Hao Zhang, <strong>Yang Li</strong>, Qingfeng Lin, Yik-Chung Wu, and H. Vincent Poor, “Harnessing Common Sparsity for Enhancing AMP-based Activity Detection and Channel Estimation,” <em>IEEE Transactions on Signal Processing</em>, accepted, Jun. 2025.
+  </div>
+  
   <div class="paper-entry">
     [J24] Zeyi Ren, Qingfeng Lin, Jingreng Lei, <strong>Yang Li*</strong>, and Yik-Chung Wu, "Mixture of Experts-augmented Deep Unfolding for Activity Detection in IRS-aided Systems," <em>IEEE Wireless Communications Letters</em>, early access, Jun. 2025. <a href="https://ieeexplore.ieee.org/document/11049000" target="_blank">[link]</a>
   </div>
