@@ -38,3 +38,7 @@ Former Visiting Students
 <li>Zixu Wang (Visiting Master student from Zhengzhou Univeristy, Jun. 2022 - Jun. 2023)</li>
 <li>Yunqi Wang (Visiting Ph.D. student from The University of Hong Kong, Mar. 2022 - Sep. 2022)</li>
 </ul>
+
+Photos
+-----
+![2025_07_08](./images/2025_07_08.jpg "Group Lunch")
