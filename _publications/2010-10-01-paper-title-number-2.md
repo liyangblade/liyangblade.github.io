@@ -50,7 +50,7 @@ Selected Journal Papers (* denotes the corresponding author)
 <p align="justify">
 
     <div class="paper-entry">
-    [J25] Hao Zhang, <strong>Yang Li</strong>, Qingfeng Lin, Yik-Chung Wu, and H. Vincent Poor, “Harnessing Common Sparsity for Enhancing AMP-based Activity Detection and Channel Estimation,” <em>IEEE Transactions on Signal Processing</em>, accepted, Jun. 2025.
+    [J25] Hao Zhang, <strong>Yang Li</strong>, Qingfeng Lin, Yik-Chung Wu, and H. Vincent Poor, “Harnessing Common Sparsity for Enhancing AMP-based Activity Detection and Channel Estimation,” <em>IEEE Transactions on Signal Processing</em>, early access, Jul. 2025. <a href="https://ieeexplore.ieee.org/document/11075531" target="_blank">[link]</a>
   </div>
   
   <div class="paper-entry">
