@@ -12,5 +12,5 @@ Lunch with group members in Jul. 2025
 Yikun Wang, Kaiyi Peng, Wentao Zhang, Yang Li
 
 <img title="Dinner with group members in Aug. 2025" src="../images/2025_08_01.jpg" width="60%">  
-Celebrating Jingreng’s New Publication in Aug. 2025
+Celebrating Jingreng’s new publication in Aug. 2025
 Kaiyi Peng, Wentao Zhang, Yang Li, Jingreng Lei, Yikun Wang
