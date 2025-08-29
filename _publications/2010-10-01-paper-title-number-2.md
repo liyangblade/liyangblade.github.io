@@ -20,7 +20,7 @@ Working Papers
 
 <p align="justify">
   <div class="paper-entry">
-   [J29] Yichen Jin, Qingfeng Lin, <strong>Yang Li</strong>, Hancheng Zhu, Bingyang Cheng, Yik-Chung Wu, and Rui Zhang, "A General Optimization Framework for Tackling Distance Constraints in Movable Antenna-Aided Systems," submitted to <em>IEEE Transactions on Wireless Communications</em>, Mar. 2025.
+   [J29] Yichen Jin, Qingfeng Lin, <strong>Yang Li</strong>, Hancheng Zhu, Bingyang Cheng, Yik-Chung Wu, and Rui Zhang, "A General Optimization Framework for Tackling Distance Constraints in Movable Antenna-Aided Systems," <em>IEEE Transactions on Wireless Communications</em>, major revision, Aug. 2025.
   </div>
 
     <div class="paper-entry">
@@ -35,17 +35,13 @@ Working Papers
     [J26] Ziyue Wang, <strong>Yang Li</strong>, Ya-Feng Liu, and Junjie Ma, “Covariance-Based Device Activity Detection with Massive MIMO for Near-Field Correlated Channels,” <em>IEEE Transactions on Wireless Communications</em>, major revision, May 2025.
   </div>
 
-    <div class="paper-entry">
-    [C19] 	Yikun Wang, <strong>Yang Li</strong>, Zeyi Ren, Yik-Chung Wu, and Rui Zhang, “Learning to Optimize Discrete Antenna Positioning for Movable Antenna-Aided Systems,” submitted to <em>Proc. IEEE Global Communications Conference (GLOBECOM)</em>, Taipei, Taiwan, 2025.
-  </div>
-
 </p>
 
 Selected Journal Papers (* denotes the corresponding author)
 -----
 <p align="justify">
     <div class="paper-entry">
-    [J25] Hao Zhang, <strong>Yang Li</strong>, Qingfeng Lin, Yik-Chung Wu, and H. Vincent Poor, “Harnessing Common Sparsity for Enhancing AMP-based Activity Detection and Channel Estimation,” <em>IEEE Transactions on Signal Processing</em>, early access, Jul. 2025. <a href="https://ieeexplore.ieee.org/document/11075531" target="_blank">[link]</a>
+    [J25] Hao Zhang, <strong>Yang Li</strong>, Qingfeng Lin, Yik-Chung Wu, and H. Vincent Poor, “Harnessing Common Sparsity for Enhancing AMP-based Activity Detection and Channel Estimation,” <em>IEEE Transactions on Signal Processing</em>, vol. 73, pp. 3220-3236, 2025. <a href="https://ieeexplore.ieee.org/document/11075531" target="_blank">[link]</a>
   </div>
   
   <div class="paper-entry">
