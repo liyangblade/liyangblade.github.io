@@ -7,9 +7,11 @@ redirect_from:
   - /group.html
 ---
 
+<br>
 
 Current Members
 =====
+
 Ph.D. Students
 -----
 <ul style="text-align: justify">
@@ -35,7 +37,8 @@ Visiting Students
 <li>Jingreng Lei (M.Phil. student from The University of Hong Kong, May 2024 - Present)</li>
 </ul>
 
-
+<br>
+<br>
 
 Previous Members
 =====
