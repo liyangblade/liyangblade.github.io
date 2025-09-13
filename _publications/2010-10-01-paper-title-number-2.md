@@ -28,7 +28,7 @@ Working Papers
   </div>
 
   <div class="paper-entry">
-    [J27] Hao Zhang, Qingfeng Lin, <strong>Yang Li</strong>, and Yik-Chung Wu, “AMP-based Joint Activity Detection and Channel Estimation in IRS-aided Grant-free Access with Accurate Channel and Sparsity Modeling,” <em>IEEE Transactions on Communications</em>, major revision, Apr. 2025.
+    [J27] Hao Zhang, Qingfeng Lin, <strong>Yang Li</strong>, and Yik-Chung Wu, “AMP-based Joint Activity Detection and Channel Estimation in IRS-aided Grant-free Access with Accurate Channel and Sparsity Modeling,” <em>IEEE Transactions on Communications</em>, major revision, Aug. 2025.
   </div>
 
 </p>
@@ -49,7 +49,7 @@ Selected Journal Papers (* denotes the corresponding author)
   </div>
   
   <div class="paper-entry">
-   [J23] Zhenrong Liu, <strong>Yang Li*</strong>, Yik-Chung Wu, and Yi Gong, “Learning to Optimize Resource Allocation in Dynamic Wireless Environments: Embracing the New While Engaging the Old,” <em>IEEE Transactions on Wireless Communications</em>, early access, Apr. 2025.  <a href="https://ieeexplore.ieee.org/document/10970427" target="_blank">[link]</a>
+   [J23] Zhenrong Liu, <strong>Yang Li*</strong>, Yik-Chung Wu, and Yi Gong, “Learning to Optimize Resource Allocation in Dynamic Wireless Environments: Embracing the New While Engaging the Old,” <em>IEEE Transactions on Wireless Communications</em>, vol. 24, no. 9, pp. 7346-7359, Sep. 2025. <a href="https://ieeexplore.ieee.org/document/10970427" target="_blank">[link]</a>
   </div>
 
   <div class="paper-entry">
