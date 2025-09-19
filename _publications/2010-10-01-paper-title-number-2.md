@@ -20,6 +20,10 @@ Working Papers
 
 <p align="justify">
   <div class="paper-entry">
+   [J30] Jingreng Lei, <strong>Yang Li</strong>, Ziyue Wang, Qingfeng Lin, Ya-Feng Liu, and Yik-Chung Wu, "A Unified Distributed Algorithm for Hybrid Near-Far Field Activity Detection in Cell-Free Massive MIMO," submitted to <em>IEEE Transactions on Wireless Communications</em>, Sep. 2025. 
+  </div>
+  
+  <div class="paper-entry">
    [J29] Yichen Jin, Qingfeng Lin, <strong>Yang Li</strong>, Hancheng Zhu, Bingyang Cheng, Yik-Chung Wu, and Rui Zhang, "A General Optimization Framework for Tackling Distance Constraints in Movable Antenna-Aided Systems," <em>IEEE Transactions on Wireless Communications</em>, major revision, Aug. 2025.
   </div>
 
