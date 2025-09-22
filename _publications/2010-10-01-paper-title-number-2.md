@@ -28,7 +28,7 @@ Working Papers
   </div>
 
     <div class="paper-entry">
-   [J28] Yang Leng, Qingfeng Lin, Long-Yin Yung, Jingreng Lei, <strong>Yang Li</strong>, and Yik-Chung Wu, “Unveiling the Power of Complex-Valued Transformers in Wireless Communications,” <em>IEEE Transactions on Communications</em>, major revision, May 2025.
+   [J28] Yang Leng, Qingfeng Lin, Long-Yin Yung, Jingreng Lei, <strong>Yang Li</strong>, and Yik-Chung Wu, “Unveiling the Power of Complex-Valued Transformers in Wireless Communications,” <em>IEEE Transactions on Communications</em>, minor revision, Sep. 2025.
   </div>
 
   <div class="paper-entry">
@@ -49,7 +49,7 @@ Selected Journal Papers (* denotes the corresponding author)
   </div>
   
   <div class="paper-entry">
-    [J24] Zeyi Ren, Qingfeng Lin, Jingreng Lei, <strong>Yang Li*</strong>, and Yik-Chung Wu, "Mixture of Experts-augmented Deep Unfolding for Activity Detection in IRS-aided Systems," <em>IEEE Wireless Communications Letters</em>,  vol. 14, no. 9, pp. 2912-2916, Sep. 2025. <a href="https://ieeexplore.ieee.org/document/11049000" target="_blank">[link]</a>
+    [J24] Zeyi Ren, Qingfeng Lin, Jingreng Lei, <strong>Yang Li*</strong>, and Yik-Chung Wu, "Mixture of Experts-augmented Deep Unfolding for Activity Detection in IRS-aided Systems," <em>IEEE Wireless Communications Letters</em>, vol. 14, no. 9, pp. 2912-2916, Sep. 2025. <a href="https://ieeexplore.ieee.org/document/11049000" target="_blank">[link]</a>
   </div>
   
   <div class="paper-entry">
