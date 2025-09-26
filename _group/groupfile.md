@@ -15,26 +15,25 @@ Current Members
 Ph.D. Students
 -----
 <ul style="text-align: justify">
-<li>Wentao Zhang (B.E. from University of Electronic Science and Technology of China, M.Sc. from National University of Singapore)</li>
+<li>Wentao Zhang (B.E. from University of Electronic Science and Technology of China, M.Sc. from National University of Singapore, Jun. 2025 - Present)</li>
 </ul>
 
 Master Students
 -----
 <ul style="text-align: justify">
-<li>Kaiyi Peng (B.E. from Nankai University))</li>
+<li>Kaiyi Peng (B.E. from Nankai University, Jul. 2025 - Present))</li>
 </ul>
 
 Bachelor Students
 -----
 <ul style="text-align: justify">
-<li>Yixiang Chen</li>
+<li>Yixiang Chen (Sep. 2025 - Present)</li>
 </ul>
 
 Visiting Students
 -----
 <ul style="text-align: justify">
 <li>Yikun Wang (M.Phil. student from The University of Hong Kong, Dec. 2024 - Present)</li>
-<li>Jingreng Lei (M.Phil. student from The University of Hong Kong, May 2024 - Present)</li>
 </ul>
 
 <br>
@@ -43,6 +42,7 @@ Visiting Students
 Previous Members
 =====
 <ul style="text-align: justify">
+<li>Jingreng Lei (M.Phil. student from The University of Hong Kong, May 2024 - Jul. 2025)</li>
 <li>Zeyi Ren (Visiting M.Phil. student from The University of Hong Kong, Aug. 2024 - Nov. 2024)</li>
 <li>Qingfeng Lin (Visiting Ph.D. student from The University of Hong Kong, Apr. 2022 - Oct. 2024)</li>
 <li>Zhenrong Liu (Visiting Ph.D. student from The University of Hong Kong, Jan. 2024 - Jul. 2024)</li>
