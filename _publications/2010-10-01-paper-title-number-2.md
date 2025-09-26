@@ -41,7 +41,7 @@ Selected Journal Papers (* denotes the corresponding author)
 -----
 <p align="justify">
   <div class="paper-entry">
-    [J26] Ziyue Wang, <strong>Yang Li</strong>, Ya-Feng Liu, and Junjie Ma, “Covariance-Based Device Activity Detection with Massive MIMO for Near-Field Correlated Channels,” <em>IEEE Transactions on Wireless Communications</em>, accepted, Sep. 2025.
+    [J26] Ziyue Wang, <strong>Yang Li</strong>, Ya-Feng Liu, and Junjie Ma, “Covariance-Based Device Activity Detection with Massive MIMO for Near-Field Correlated Channels,” <em>IEEE Transactions on Wireless Communications</em>, early access, Sep. 2025.  <a href="https://ieeexplore.ieee.org/document/11176917" target="_blank">[link]</a>
   </div>
   
     <div class="paper-entry">
