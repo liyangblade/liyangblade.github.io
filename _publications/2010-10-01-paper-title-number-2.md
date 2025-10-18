@@ -27,12 +27,8 @@ Working Papers
    [J29] Yichen Jin, Qingfeng Lin, <strong>Yang Li</strong>, Hancheng Zhu, Bingyang Cheng, Yik-Chung Wu, and Rui Zhang, "A General Optimization Framework for Tackling Distance Constraints in Movable Antenna-Aided Systems," <em>IEEE Transactions on Wireless Communications</em>, major revision, Aug. 2025.
   </div>
 
-    <div class="paper-entry">
-   [J28] Yang Leng, Qingfeng Lin, Long-Yin Yung, Jingreng Lei, <strong>Yang Li</strong>, and Yik-Chung Wu, “Unveiling the Power of Complex-Valued Transformers in Wireless Communications,” <em>IEEE Transactions on Communications</em>, minor revision, Sep. 2025.
-  </div>
-
   <div class="paper-entry">
-    [J27] Hao Zhang, Qingfeng Lin, <strong>Yang Li</strong>, and Yik-Chung Wu, “AMP-based Joint Activity Detection and Channel Estimation in IRS-aided Grant-free Access with Accurate Channel and Sparsity Modeling,” <em>IEEE Transactions on Communications</em>, major revision, Aug. 2025.
+    [J28] Hao Zhang, Qingfeng Lin, <strong>Yang Li</strong>, and Yik-Chung Wu, “AMP-based Joint Activity Detection and Channel Estimation in IRS-aided Grant-free Access with Accurate Channel and Sparsity Modeling,” <em>IEEE Transactions on Communications</em>, major revision, Aug. 2025.
   </div>
 
 </p>
@@ -40,6 +36,10 @@ Working Papers
 Selected Journal Papers (* denotes the corresponding author)
 -----
 <p align="justify">
+    <div class="paper-entry">
+   [J27] Yang Leng, Qingfeng Lin, Long-Yin Yung, Jingreng Lei, <strong>Yang Li*</strong>, and Yik-Chung Wu, “Unveiling the Power of Complex-Valued Transformers in Wireless Communications,” <em>IEEE Transactions on Communications</em>, accepted, Oct. 2025.
+  </div>
+  
   <div class="paper-entry">
     [J26] Ziyue Wang, <strong>Yang Li</strong>, Ya-Feng Liu, and Junjie Ma, “Covariance-Based Device Activity Detection with Massive MIMO for Near-Field Correlated Channels,” <em>IEEE Transactions on Wireless Communications</em>, early access, Sep. 2025.  <a href="https://ieeexplore.ieee.org/document/11176917" target="_blank">[link]</a>
   </div>
