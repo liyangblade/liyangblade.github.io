@@ -22,6 +22,8 @@ Working Papers
   <div class="paper-entry">
 [C19] Yikun Wang,<strong>Yang Li</strong>, Zeyi Ren, Jingreng Lei, Yik-Chung Wu, and Rui Zhang, “Learning to Jointly Optimize Antenna Positioning and Beamforming for Movable Antenna-Aided Systems,” submitted to <em>Proc. IEEE International Conference on Communications (ICC)<em>, Glasgow, Scotland, UK, 2026.
   </div>
+
+  <div class="paper-entry">
    [J30] Jingreng Lei, <strong>Yang Li</strong>, Ziyue Wang, Qingfeng Lin, Ya-Feng Liu, and Yik-Chung Wu, "A Unified Distributed Algorithm for Hybrid Near-Far Field Activity Detection in Cell-Free Massive MIMO," submitted to <em>IEEE Transactions on Wireless Communications</em>, Sep. 2025. 
   </div>
   
