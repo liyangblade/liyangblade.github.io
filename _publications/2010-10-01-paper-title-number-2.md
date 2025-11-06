@@ -158,7 +158,7 @@ Selected Conference Papers
 </div>
   
 <div class="paper-entry">
-[C17] Ziyue Wang, <strong>Yang Li</strong>, Ya-Feng Liu, and Junjie Ma, “Covariance-Based Device Activity Detection for Near-Field Communications,” in <em>Proc. IEEE/CIC International Conference on Communications in China (ICCC)</em>, Shanghai, China, 2025.
+[C17] Ziyue Wang, <strong>Yang Li</strong>, Ya-Feng Liu, and Junjie Ma, “Covariance-Based Device Activity Detection for Near-Field Communications,” in <em>Proc. IEEE/CIC International Conference on Communications in China (ICCC)</em>, Shanghai, China, 2025.  <a href="https://ieeexplore.ieee.org/document/11149260" target="_blank">[link]</a>
   </div>
   
 <div class="paper-entry">
