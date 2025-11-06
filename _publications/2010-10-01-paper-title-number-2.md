@@ -41,7 +41,7 @@ Selected Journal Papers (* denotes the corresponding author)
 -----
 <p align="justify">
     <div class="paper-entry">
-   [J27] Yang Leng, Qingfeng Lin, Long-Yin Yung, Jingreng Lei, <strong>Yang Li*</strong>, and Yik-Chung Wu, “Unveiling the Power of Complex-Valued Transformers in Wireless Communications,” <em>IEEE Transactions on Communications</em>, accepted, Oct. 2025.
+   [J27] Yang Leng, Qingfeng Lin, Long-Yin Yung, Jingreng Lei, <strong>Yang Li*</strong>, and Yik-Chung Wu, “Unveiling the Power of Complex-Valued Transformers in Wireless Communications,” <em>IEEE Transactions on Communications</em>, early access, Nov. 2025. <a href="https://ieeexplore.ieee.org/document/11224929" target="_blank">[link]</a>
   </div>
   
   <div class="paper-entry">
