@@ -20,7 +20,7 @@ Working Papers
 
 <p align="justify">
   <div class="paper-entry">
-[C19] Yikun Wang,<strong>Yang Li</strong>, Zeyi Ren, Jingreng Lei, Yik-Chung Wu, and Rui Zhang, “Learning to Jointly Optimize Antenna Positioning and Beamforming for Movable Antenna-Aided Systems,” submitted to <em>Proc. IEEE International Conference on Communications (ICC)</em>, Glasgow, Scotland, UK, 2026.
+[C19] Yikun Wang, <strong>Yang Li</strong>, Zeyi Ren, Jingreng Lei, Yik-Chung Wu, and Rui Zhang, “Learning to Jointly Optimize Antenna Positioning and Beamforming for Movable Antenna-Aided Systems,” submitted to <em>Proc. IEEE International Conference on Communications (ICC)</em>, Glasgow, Scotland, UK, 2026.
   </div>
 
   <div class="paper-entry">
