@@ -37,7 +37,7 @@ Selected Journal Papers (* denotes the corresponding author)
 -----
 <p align="justify">
   <div class="paper-entry">
-    [J28] Hao Zhang, Qingfeng Lin, <strong>Yang Li*</strong>, and Yik-Chung Wu, “AMP-based Joint Activity Detection and Channel Estimation in IRS-aided Grant-free Access with Accurate Channel and Sparsity Modeling,” <em>IEEE Transactions on Communications</em>, accepted, Dec. 2025.
+    [J28] Hao Zhang, Qingfeng Lin, <strong>Yang Li*</strong>, and Yik-Chung Wu, “AMP-based Joint Activity Detection and Channel Estimation in IRS-aided Grant-free Access with Accurate Channel and Sparsity Modeling,” <em>IEEE Transactions on Communications</em>, early access, Dec. 2025. <a href="https://ieeexplore.ieee.org/document/11313557" target="_blank">[link]</a>
   </div>
   
     <div class="paper-entry">
