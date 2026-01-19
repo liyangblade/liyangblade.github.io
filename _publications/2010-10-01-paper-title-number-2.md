@@ -20,10 +20,6 @@ Working Papers
 
 <p align="justify">
   <div class="paper-entry">
-[C19] Yikun Wang, <strong>Yang Li</strong>, Zeyi Ren, Jingreng Lei, Yik-Chung Wu, and Rui Zhang, “Learning to Jointly Optimize Antenna Positioning and Beamforming for Movable Antenna-Aided Systems,” submitted to <em>Proc. IEEE International Conference on Communications (ICC)</em>, Glasgow, Scotland, UK, 2026.
-  </div>
-
-  <div class="paper-entry">
    [J30] Jingreng Lei, <strong>Yang Li</strong>, Ziyue Wang, Qingfeng Lin, Ya-Feng Liu, and Yik-Chung Wu, "A Unified Distributed Algorithm for Hybrid Near-Far Field Activity Detection in Cell-Free Massive MIMO," submitted to <em>IEEE Transactions on Wireless Communications</em>, Sep. 2025. 
   </div>
 
@@ -33,7 +29,7 @@ Selected Journal Papers (* denotes the corresponding author)
 -----
 <p align="justify">
   <div class="paper-entry">
-   [J29] Yichen Jin, Qingfeng Lin, <strong>Yang Li*</strong>, Hancheng Zhu, Bingyang Cheng, Yik-Chung Wu, and Rui Zhang, "A General Optimization Framework for Tackling Distance Constraints in Movable Antenna-Aided Systems," <em>IEEE Transactions on Wireless Communications</em>, accepted, Jan. 2026.
+   [J29] Yichen Jin, Qingfeng Lin, <strong>Yang Li*</strong>, Hancheng Zhu, Bingyang Cheng, Yik-Chung Wu, and Rui Zhang, "A General Optimization Framework for Tackling Distance Constraints in Movable Antenna-Aided Systems," <em>IEEE Transactions on Wireless Communications</em>, early access, Jan. 2026. <a href="https://ieeexplore.ieee.org/document/11355740" target="_blank">[link]</a>
   </div>
   
   <div class="paper-entry">
@@ -153,6 +149,10 @@ Selected Journal Papers (* denotes the corresponding author)
 Selected Conference Papers
 -----
 <p align="justify">
+  <div class="paper-entry">
+[C19] Yikun Wang, <strong>Yang Li</strong>, Zeyi Ren, Jingreng Lei, Yik-Chung Wu, and Rui Zhang, “Learning to Jointly Optimize Antenna Positioning and Beamforming for Movable Antenna-Aided Systems,” in <em>Proc. IEEE International Conference on Communications (ICC)</em>, Glasgow, Scotland, UK, 2026.
+  </div>
+  
 <div class="paper-entry">
 [C18] Jingreng Lei, <strong>Yang Li</strong>, Zeyi Ren, Qingfeng Lin, Ziyue Wang, Ya-Feng Liu, and Yik-Chung Wu, “Distributed Activity Detection for Cell-Free Hybrid Near-Far Field Communications,” in <em>Proc. IEEE Global Communications Conference (GLOBECOM)</em>, Taipei, Taiwan, 2025.
 </div>
