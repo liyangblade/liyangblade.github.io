@@ -241,6 +241,9 @@ Selected Patents
 -----
 <p align="justify">
 <div class="paper-entry">
+[P20] 王艺堃、<strong>李洋</strong>、胡奕聪、张瑞，“一种无蜂窝系统的联合授权与波束赋形方法及其相关设备”，申请号：202610309500.6，申请日期：2026年3月13日
+ </div>
+<div class="paper-entry">
 [P19] 刘真榕、<strong>李洋</strong>、贡毅、胡奕聪，“无线资源分配方法、装置、计算机设备及可读存储介质”，申请号：202510089748.1，申请日期：2025年1月21日（<strong>已授权</strong>，授权日期：2025年10月28日）
  </div>
 <div class="paper-entry">
