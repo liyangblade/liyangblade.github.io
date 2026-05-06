@@ -158,7 +158,8 @@ Selected Conference Papers
   </div>
   
 <div class="paper-entry">
-[C18] Jingreng Lei, <strong>Yang Li</strong>, Zeyi Ren, Qingfeng Lin, Ziyue Wang, Ya-Feng Liu, and Yik-Chung Wu, “Distributed Activity Detection for Cell-Free Hybrid Near-Far Field Communications,” in <em>Proc. IEEE Global Communications Conference (GLOBECOM)</em>, Taipei, Taiwan, 2025.
+[C18] Jingreng Lei, <strong>Yang Li</strong>, Zeyi Ren, Qingfeng Lin, Ziyue Wang, Ya-Feng Liu, and Yik-Chung Wu, “Distributed Activity Detection for Cell-Free Hybrid Near-Far Field Communications,” in <em>Proc. IEEE Global Communications Conference (GLOBECOM)</em>, Taipei, Taiwan, 2025.  <a href="https://ieeexplore.ieee.org/document/11431942" target="_blank">[link]</a>
+  
 </div>
   
 <div class="paper-entry">
