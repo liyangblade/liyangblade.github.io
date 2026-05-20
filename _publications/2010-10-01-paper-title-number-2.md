@@ -121,7 +121,7 @@ Selected Journal Papers (* denotes the corresponding author)
  </div>
 
  <div class="paper-entry">   
-[J7] <strong>Yang Li</strong>, Zhitang Chen, Guochen Liu, Yik-Chung Wu, and Kai-Kit Wong, “Learning to Construct Nested Polar Codes: An Attention-Based Set-to-Element Model,” <em>IEEE Communications Letters</em>, vol. 25, no. 12, pp. 3898-3902, Dec. 2021. <a href="https://ieeexplore.ieee.org/document/9541201" target="_blank">[link]</a>
+[J7] <strong>Yang Li*</strong>, Zhitang Chen, Guochen Liu, Yik-Chung Wu, and Kai-Kit Wong, “Learning to Construct Nested Polar Codes: An Attention-Based Set-to-Element Model,” <em>IEEE Communications Letters</em>, vol. 25, no. 12, pp. 3898-3902, Dec. 2021. <a href="https://ieeexplore.ieee.org/document/9541201" target="_blank">[link]</a>
  </div>
 
  <div class="paper-entry">   
