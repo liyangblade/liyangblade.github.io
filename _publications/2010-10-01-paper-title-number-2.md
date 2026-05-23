@@ -31,7 +31,7 @@ Selected Journal Papers (* denotes the corresponding author)
 -----
 <p align="justify">
   <div class="paper-entry">
-   [J30] Jingreng Lei, <strong>Yang Li*</strong>, Ziyue Wang, Qingfeng Lin, Ya-Feng Liu, and Yik-Chung Wu, "A Unified Distributed Algorithm for Hybrid Near-Far Field Activity Detection in Cell-Free Massive MIMO," accepted by <em>IEEE Transactions on Wireless Communications</em>, Sep. 2025. 
+   [J30] Jingreng Lei, <strong>Yang Li*</strong>, Ziyue Wang, Qingfeng Lin, Ya-Feng Liu, and Yik-Chung Wu, "A Unified Distributed Algorithm for Hybrid Near-Far Field Activity Detection in Cell-Free Massive MIMO," accepted by <em>IEEE Transactions on Wireless Communications</em>, May 2026. 
   </div>
   
   <div class="paper-entry">
