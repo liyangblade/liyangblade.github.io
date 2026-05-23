@@ -23,15 +23,17 @@ Working Papers
 [C20] Wentao Zhang, Yikun Wang, <strong>Yang Li</strong>, Minghua Xia, and Zhaocheng Wang, “VQ Learning for Downlink Beamforming with Compressed CSI in Cell-Free Systems,” submitted to <em>IEEE Global Communications Conference (GLOBECOM)</em>, Macau, China, 2026.
     </div>
     
-  <div class="paper-entry">
-   [J30] Jingreng Lei, <strong>Yang Li</strong>, Ziyue Wang, Qingfeng Lin, Ya-Feng Liu, and Yik-Chung Wu, "A Unified Distributed Algorithm for Hybrid Near-Far Field Activity Detection in Cell-Free Massive MIMO," submitted to <em>IEEE Transactions on Wireless Communications</em>, Sep. 2025. 
-  </div>
+
 
 </p>
 
 Selected Journal Papers (* denotes the corresponding author)
 -----
 <p align="justify">
+  <div class="paper-entry">
+   [J30] Jingreng Lei, <strong>Yang Li*</strong>, Ziyue Wang, Qingfeng Lin, Ya-Feng Liu, and Yik-Chung Wu, "A Unified Distributed Algorithm for Hybrid Near-Far Field Activity Detection in Cell-Free Massive MIMO," accepted by <em>IEEE Transactions on Wireless Communications</em>, Sep. 2025. 
+  </div>
+  
   <div class="paper-entry">
    [J29] Yichen Jin, Qingfeng Lin, <strong>Yang Li*</strong>, Hancheng Zhu, Bingyang Cheng, Yik-Chung Wu, and Rui Zhang, "A General Optimization Framework for Tackling Distance Constraints in Movable Antenna-Aided Systems," <em>IEEE Transactions on Wireless Communications</em>, vol. 25, pp. 10869-10885, 2026. <a href="https://ieeexplore.ieee.org/document/11355740" target="_blank">[link]</a>
   </div>
