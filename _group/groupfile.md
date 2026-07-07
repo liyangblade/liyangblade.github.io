@@ -21,6 +21,7 @@ Ph.D. Students
 Master Students
 -----
 <ul style="text-align: justify">
+<li>Huajun Liang (B.E. from Guangxi University, Jul. 2025 - Present))</li>
 <li>Kaiyi Peng (B.E. from Nankai University, Jul. 2025 - Present))</li>
 </ul>
 
@@ -30,11 +31,6 @@ Bachelor Students
 <li>Yixiang Chen (Sep. 2025 - Present)</li>
 </ul>
 
-Visiting Students
------
-<ul style="text-align: justify">
-<li>Yikun Wang (M.Phil. student from The University of Hong Kong, Dec. 2024 - Present)</li>
-</ul>
 
 <br>
 <br>
@@ -42,6 +38,7 @@ Visiting Students
 Previous Members
 =====
 <ul style="text-align: justify">
+<li>Yikun Wang (M.Phil. student from The University of Hong Kong, Dec. 2024 - May 2036)</li>
 <li>Jingreng Lei (Visiting M.Phil. student from The University of Hong Kong, May 2024 - Jul. 2025)</li>
 <li>Zeyi Ren (Visiting M.Phil. student from The University of Hong Kong, Aug. 2024 - Nov. 2024)</li>
 <li>Qingfeng Lin (Visiting Ph.D. student from The University of Hong Kong, Apr. 2022 - Oct. 2024)</li>
