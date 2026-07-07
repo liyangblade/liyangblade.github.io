@@ -21,7 +21,7 @@ Ph.D. Students
 Master Students
 -----
 <ul style="text-align: justify">
-<li>Huajun Liang (B.E. from Guangxi University, Jul. 2025 - Present))</li>
+<li>Huajun Liang (B.E. from Guangxi University, Jul. 2026 - Present))</li>
 <li>Kaiyi Peng (B.E. from Nankai University, Jul. 2025 - Present))</li>
 </ul>
 
