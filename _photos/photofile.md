@@ -7,6 +7,10 @@ redirect_from:
   - /photos.html
 ---
 
+<img title="Dinner with group members in Jan. 2026" src="../images/2026_07_07.jpg" width="60%">  
+Lunch with group members in Jul. 2026   
+Wentao Zhang, Kaiyi Peng, Yang Li, Huajun Liang 
+
 <img title="Dinner with group members in Jan. 2026" src="../images/2026_01_24.jpg" width="60%">  
 Celebrating Yikun’s new publication in Jan. 2026  
 Yikun Wang, Yang Li, Kaiyi Peng, Wentao Zhang
