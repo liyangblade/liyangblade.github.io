@@ -248,6 +248,9 @@ Selected Patents
 -----
 <p align="justify">
 <div class="paper-entry">
+[P21] 张文涛、王艺堃、<strong>李洋</strong>、夏明华、王昭诚，“一种面向无蜂窝系统的向量量化波束赋形学习系统和方法”，申请号：202611058200.1，申请日期：2026年7月16日
+ </div>
+<div class="paper-entry">
 [P20] 王艺堃、<strong>李洋</strong>、胡奕聪、张瑞，“一种无蜂窝系统的联合授权与波束赋形方法及其相关设备”，申请号：202610309500.6，申请日期：2026年3月13日
  </div>
 <div class="paper-entry">
