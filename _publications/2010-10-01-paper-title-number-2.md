@@ -23,9 +23,7 @@ Working Papers
 [J31] Yikun Wang, <strong>Yang Li</strong>, Yik-Chung Wu, and Rui Zhang, “A General Deep Learning Framework for Wireless Resource Allocation under Discrete Constraints,” submitted to  <em>IEEE Transactions on Wireless Communications</em>, Jul. 2026.
   </div>
   
-    <div class="paper-entry">
-[C20] Wentao Zhang, Yikun Wang, <strong>Yang Li</strong>, Minghua Xia, and Zhaocheng Wang, “VQ Learning for Downlink Beamforming with Compressed CSI in Cell-Free Systems,” submitted to <em>IEEE Global Communications Conference (GLOBECOM)</em>, Macau, China, 2026.
-    </div>
+
     
 
 
@@ -158,6 +156,10 @@ Selected Journal Papers (* denotes the corresponding author)
 
 Selected Conference Papers
 -----
+ <div class="paper-entry">
+[C20] Wentao Zhang, Yikun Wang, <strong>Yang Li</strong>, Minghua Xia, and Zhaocheng Wang, “VQ Learning for Downlink Beamforming with Compressed CSI in Cell-Free Systems,” in <em>IEEE Global Communications Conference (GLOBECOM)</em>, Macau, China, 2026.
+    </div>
+
 <p align="justify">
   <div class="paper-entry">
 [C19] Yikun Wang, <strong>Yang Li</strong>, Zeyi Ren, Jingreng Lei, Yik-Chung Wu, and Rui Zhang, “Learning to Jointly Optimize Antenna Positioning and Beamforming for Movable Antenna-Aided Systems,” in <em>Proc. IEEE International Conference on Communications (ICC)</em>, Glasgow, Scotland, UK, 2026.  <a href="https://ieeexplore.ieee.org/document/11588041" target="_blank">[link]</a>
