@@ -18,6 +18,9 @@ Yikun's presentation in IEEE ICC (Glasgow, Scotland, UK, May 2026)
 Celebrating Yikun’s new publication in Jan. 2026  
 Yikun Wang, Yang Li, Kaiyi Peng, Wentao Zhang
 
+<img title="Jingreng's presentation in IEEE GLOBECOM (Taipei, Taiwan, Dec. 2025)" src="../images/2025_12.jpg" width="60%">  
+Jingreng's presentation in IEEE GLOBECOM (Taipei, Taiwan, Dec. 2025)
+
 <img title="Dinner with group members in Aug. 2025" src="../images/2025_08_01.jpg" width="60%">  
 Celebrating Jingreng’s new publication in Aug. 2025  
 Kaiyi Peng, Wentao Zhang, Yang Li, Jingreng Lei, Yikun Wang
