@@ -22,16 +22,15 @@ Yang Li received the B.E. and M.E. degrees in electronic information engineering
 Research Interests
 ------
 <ul style="text-align: justify">
-<li>My research expertise lies at the intersection of wireless communications, deep learning, and optimization, with extensive experience and substantial contributions in developing distributed optimization and deep learning algorithms for optimization problems arising in Internet of Things (IoT), cell-free massive MIMO, and large-scale wireless networks.</li>
-<li>My current research interests are <strong>learning to optimize</strong>, <strong>AI-empowered communications</strong>, <strong>massive grant-free random access</strong>, <strong>cell-free networks</strong>, <strong>near-field communications</strong>, <strong>movable antennas</strong>, and <strong>various optimization problems from beyond 5G communications</strong>.</li>
+<li>My research expertise lies at the intersection of wireless communications, deep learning, and optimization, with extensive experience and substantial contributions in developing distributed optimization and deep learning algorithms for optimization problems arising in wireless networks.</li>
+<li>My current research interests are <strong>learning to optimize</strong>, <strong>AI-empowered communications</strong>, <strong>massive grant-free random access</strong>, <strong>cell-free networks</strong>, <strong>near-field communications</strong>, and <strong>various optimization problems from beyond 5G communications</strong>.</li>
 </ul>
 
 Openings
 ------
 <ul style="text-align: justify">
 <li>I am looking for <strong>self-motivated</strong> students with <strong>solid mathematical</strong> background who are interested in pursuing Master's (joint program with Southern University of Science and Technology) or Ph.D. (joint program with 1) Sun Yat-sen University, 2) Harbin Institute of Technology, Shenzhen (HITSZ), and 3) Beijing Normal-Hong Kong Baptist University (BNBU)) degrees.</li>
-<li>I am also looking for <strong>self-motivated</strong> postdoctoral fellows (joint program with Tsinghua Shenzhen International Graduate School) with <strong>solid mathematical</strong> background who are interested in working on cutting-edge problems in 6G communications. More details are included 
-  <a href="https://join.gbu.edu.cn/#/app/dwqdx/epxing_recruit/zpwz?pageId=7F6264E7CD444BE3B34823E31071EFDE&postListId=A2F6B90B36534FDA9007D072E8095C3D" target="_blank">here</a>.</li>
+<li>I am also looking for <strong>self-motivated</strong> postdoctoral fellows (joint program with The University of Science and Technology of China (USTC)) with <strong>solid mathematical</strong> background who are interested in working on cutting-edge problems in 6G communications.
 <li>Please send me an email (with a copy of your CV) for details.</li>
 </ul>
 
