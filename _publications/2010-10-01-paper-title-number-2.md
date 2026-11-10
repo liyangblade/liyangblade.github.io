@@ -163,7 +163,7 @@ Selected Conference Papers
 -----
 <p align="justify">
  <div class="paper-entry">
-[C20] Wentao Zhang, Yikun Wang, <strong>Yang Li</strong>, Minghua Xia, and Zhaocheng Wang, “VQ Learning for Downlink Beamforming with Compressed CSI in Cell-Free Systems,” in <em>IEEE Global Communications Conference (GLOBECOM)</em>, Macau, China, 2026.
+[C20] Wentao Zhang, Yikun Wang, <strong>Yang Li</strong>, Minghua Xia, and Zhaocheng Wang, “VQ Learning for Downlink Beamforming with Compressed CSI in Cell-Free Systems,” in <em>Proc. IEEE Global Communications Conference (GLOBECOM)</em>, Macau, China, 2026.
     </div>
 
   <div class="paper-entry">
