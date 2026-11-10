@@ -30,7 +30,7 @@ Openings
 ------
 <ul style="text-align: justify">
 <li>I am looking for <strong>self-motivated</strong> students with <strong>solid mathematical</strong> background who are interested in pursuing Master's (joint program with Southern University of Science and Technology) or Ph.D. (joint program with 1) Sun Yat-sen University, 2) Harbin Institute of Technology, Shenzhen (HITSZ), and 3) Beijing Normal-Hong Kong Baptist University (BNBU)) degrees.</li>
-<li>I am also looking for <strong>self-motivated</strong> postdoctoral fellows (joint program with The University of Science and Technology of China (USTC)) with <strong>solid mathematical</strong> background who are interested in working on cutting-edge problems in 6G communications.
+<li>I am also looking for <strong>self-motivated</strong> postdoctoral fellows (joint program with The University of Science and Technology of China (USTC)) with <strong>solid mathematical</strong> background who are interested in working on cutting-edge problems in 6G communications.</li>
 <li>Please send me an email (with a copy of your CV) for details.</li>
 </ul>
 
