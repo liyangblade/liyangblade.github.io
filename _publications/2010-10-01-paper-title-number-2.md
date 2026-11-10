@@ -19,6 +19,11 @@ Working Papers
 </style>
 
 <p align="justify">
+ <div class="paper-entry">
+[C21] Huajun Liang, <strong>Yang Li</strong>, and Ya-Feng Liu, “Spherical-Wave Transformer: A Model-Driven Approach for Hybrid Near-Far Field Activity
+Detection in Massive MIMO,” submitted to <em>Proc. IEEE International Conference on Communications (ICC)</em>, Washington, DC, USA, 2027.
+    </div>
+  
   <div class="paper-entry">
 [J31] Yikun Wang, <strong>Yang Li</strong>, Yik-Chung Wu, and Rui Zhang, “A General Deep Learning Framework for Wireless Resource Allocation under Discrete Constraints,” submitted to  <em>IEEE Transactions on Wireless Communications</em>, Jul. 2026.
   </div>
